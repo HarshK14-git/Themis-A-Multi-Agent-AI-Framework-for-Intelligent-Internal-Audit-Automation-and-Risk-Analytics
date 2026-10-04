@@ -1,0 +1,126 @@
+[
+  {
+    "control_id": "A.6.5",
+    "control_name": "Termination responsibilities",
+    "compliance_status": "Non-compliant",
+    "risk_score": 70,
+    "risk_level": "Critical",
+    "contributing_factors": [
+      "Compliance status: Non-compliant (+50)",
+      "Violation ratio: 2/3 = 66.7% (+20)"
+    ]
+  },
+  {
+    "control_id": "A.8.16",
+    "control_name": "Monitoring activities",
+    "compliance_status": "Non-compliant",
+    "risk_score": 51,
+    "risk_level": "High",
+    "contributing_factors": [
+      "Compliance status: Non-compliant (+50)",
+      "Violation ratio: 175/3669 = 4.8% (+1)"
+    ]
+  },
+  {
+    "control_id": "A.5.17",
+    "control_name": "Authentication information",
+    "compliance_status": "Non-compliant",
+    "risk_score": 50,
+    "risk_level": "High",
+    "contributing_factors": [
+      "Compliance status: Non-compliant (+50)",
+      "Violation ratio: 1/95 = 1.1% (+0)"
+    ]
+  },
+  {
+    "control_id": "A.8.5",
+    "control_name": "Secure authentication",
+    "compliance_status": "Non-compliant",
+    "risk_score": 50,
+    "risk_level": "High",
+    "contributing_factors": [
+      "Compliance status: Non-compliant (+50)",
+      "Violation ratio: 1/95 = 1.1% (+0)"
+    ]
+  },
+  {
+    "control_id": "A.5.15",
+    "control_name": "Access control",
+    "compliance_status": "Partially Compliant",
+    "risk_score": 25,
+    "risk_level": "Medium",
+    "contributing_factors": [
+      "Compliance status: Partially Compliant (+25)"
+    ]
+  },
+  {
+    "control_id": "A.5.16",
+    "control_name": "Identity management",
+    "compliance_status": "Partially Compliant",
+    "risk_score": 25,
+    "risk_level": "Medium",
+    "contributing_factors": [
+      "Compliance status: Partially Compliant (+25)"
+    ]
+  },
+  {
+    "control_id": "A.5.18",
+    "control_name": "Access rights",
+    "compliance_status": "Partially Compliant",
+    "risk_score": 25,
+    "risk_level": "Medium",
+    "contributing_factors": [
+      "Compliance status: Partially Compliant (+25)"
+    ]
+  },
+  {
+    "control_id": "A.8.2",
+    "control_name": "Privileged access rights",
+    "compliance_status": "Partially Compliant",
+    "risk_score": 25,
+    "risk_level": "Medium",
+    "contributing_factors": [
+      "Compliance status: Partially Compliant (+25)"
+    ]
+  },
+  {
+    "control_id": "A.8.3",
+    "control_name": "Information access restriction",
+    "compliance_status": "Partially Compliant",
+    "risk_score": 25,
+    "risk_level": "Medium",
+    "contributing_factors": [
+      "Compliance status: Partially Compliant (+25)"
+    ]
+  },
+  {
+    "control_id": "A.8.15",
+    "control_name": "Logging",
+    "compliance_status": "Partially Compliant",
+    "risk_score": 25,
+    "risk_level": "Medium",
+    "contributing_factors": [
+      "Compliance status: Partially Compliant (+25)"
+    ]
+  },
+  {
+    "control_id": "A.8.9",
+    "control_name": "Configuration management",
+    "compliance_status": "Insufficient Evidence",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "contributing_factors": [
+      "Compliance status: Insufficient Evidence (+15)"
+    ]
+  },
+  {
+    "control_id": "A.6.3",
+    "control_name": "Awareness, education, training",
+    "compliance_status": "Insufficient Evidence",
+    "risk_score": 15,
+    "risk_level": "Low",
+    "contributing_factors": [
+      "Compliance status: Insufficient Evidence (+15)"
+    ]
+  }
+]

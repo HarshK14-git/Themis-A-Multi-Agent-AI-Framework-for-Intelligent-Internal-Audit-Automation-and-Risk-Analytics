@@ -1,0 +1,251 @@
+employee_id,name,department,role,joining_date,employment_status,location,manager_id
+EMP0001,Aarav Garcia,Finance,Engineer,2024-12-08,Active,New York,EMP0229
+EMP0002,Mei Müller,IT,Analyst,2025-06-14,Active,London,EMP0155
+EMP0003,Emma Silva,Operations,Engineer,2021-06-19,Terminated,Remote,EMP0223
+EMP0004,Ravi Chen,Legal,Specialist,2022-09-08,Terminated,Mumbai,EMP0246
+EMP0005,Priya Smith,Operations,Analyst,2022-06-23,Active,Mumbai,EMP0207
+EMP0006,Noor Silva,IT,Specialist,2025-08-14,Terminated,Remote,EMP0161
+EMP0007,Sofia Patel,Sales,Engineer,2018-08-08,Active,New York,
+EMP0008,Wei Smith,Finance,Analyst,2022-03-29,Active,Mumbai,EMP0214
+EMP0009,Sara Patel,Finance,Associate,2023-07-05,Active,New York,EMP0044
+EMP0010,Emma Chen,Operations,Specialist,2023-06-23,Active,Remote,EMP0084
+EMP0011,Ravi Sharma,Finance,Analyst,2022-12-18,Active,Singapore,EMP0055
+EMP0012,Mei Patel,Finance,Associate,2020-11-26,Active,Singapore,EMP0165
+EMP0013,Wei Chen,Finance,Associate,2020-03-16,Active,Remote,EMP0150
+EMP0014,Mei Müller,HR,Engineer,2024-12-13,Active,Remote,EMP0194
+EMP0015,Priya Chen,Legal,Engineer,2018-11-14,Terminated,Singapore,EMP0099
+EMP0016,Noor Silva,HR,Director,2026-05-16,Active,New York,EMP0138
+EMP0017,Ravi Patel,IT,Manager,2021-08-17,Active,London,EMP0245
+EMP0018,Olivia Garcia,Sales,Engineer,2020-10-22,Active,New York,EMP0077
+EMP0019,Carlos Nguyen,Finance,Engineer,2022-04-23,Active,London,EMP0200
+EMP0020,David Sharma,Sales,Manager,2021-01-08,Active,New York,EMP0093
+EMP0021,Sofia Garcia,Finance,Analyst,2023-10-20,Active,Remote,EMP0022
+EMP0022,Sofia Smith,Sales,Engineer,2025-01-23,Active,Singapore,EMP0043
+EMP0023,Sofia Nguyen,Operations,Engineer,2020-06-15,Active,London,EMP0103
+EMP0024,Ahmed Patel,Operations,Director,2021-06-09,Active,New York,EMP0017
+EMP0025,Mei Silva,Finance,Director,2024-01-12,Active,New York,EMP0162
+EMP0026,Priya Sharma,HR,Analyst,2020-09-26,Active,London,EMP0125
+EMP0027,John Nguyen,Sales,Specialist,2023-10-11,Active,Singapore,EMP0049
+EMP0028,Ahmed Müller,HR,Specialist,2021-11-22,Active,Singapore,EMP0014
+EMP0029,Ahmed Smith,IT,Specialist,2022-09-12,Active,New York,EMP0049
+EMP0030,John Müller,Finance,Manager,2021-04-25,Active,London,EMP0020
+EMP0031,Sofia Silva,IT,Analyst,2019-03-10,Active,Remote,EMP0249
+EMP0032,Ravi Khan,Finance,Specialist,2021-01-20,Active,Singapore,EMP0103
+EMP0033,John Müller,IT,Specialist,2023-07-12,Active,Singapore,EMP0179
+EMP0034,Ravi Silva,Legal,Associate,2021-01-16,Active,London,EMP0056
+EMP0035,Mei Silva,IT,Associate,2022-12-26,Active,New York,EMP0123
+EMP0036,Sofia Silva,Finance,Analyst,2020-10-21,Active,New York,EMP0018
+EMP0037,Ahmed Khan,Operations,Analyst,2020-02-11,Active,London,EMP0011
+EMP0038,Liam Nguyen,Sales,Director,2022-12-15,Active,Mumbai,EMP0184
+EMP0039,Wei Müller,Finance,Associate,2019-04-07,Active,Mumbai,EMP0238
+EMP0040,Priya Sharma,Operations,Director,2020-03-09,Active,New York,EMP0055
+EMP0041,John Patel,IT,Engineer,2022-05-11,Active,Mumbai,EMP0214
+EMP0042,Wei Nguyen,Legal,Director,2026-05-31,Active,Remote,EMP0170
+EMP0043,David Chen,HR,Analyst,2025-04-20,Active,Remote,EMP0073
+EMP0044,Olivia Patel,Finance,Associate,2019-05-23,Active,Mumbai,EMP0065
+EMP0045,Sofia Sharma,IT,Associate,2021-10-02,Active,Mumbai,
+EMP0046,John Garcia,Finance,Associate,2021-07-19,Active,Remote,EMP0144
+EMP0047,Priya Chen,Sales,Analyst,2022-05-12,Terminated,Remote,EMP0111
+EMP0048,Wei Patel,IT,Manager,2024-02-23,Active,London,EMP0091
+EMP0049,David Müller,Sales,Associate,2024-10-07,Active,London,EMP0250
+EMP0050,John Müller,IT,Engineer,2022-10-11,Active,Singapore,EMP0222
+EMP0051,Emma Garcia,Finance,Associate,2025-04-16,Active,Singapore,EMP0220
+EMP0052,Emma Kim,HR,Manager,2023-12-13,Active,London,
+EMP0053,Sara Garcia,IT,Manager,2022-07-25,Active,Remote,EMP0216
+EMP0054,Aarav Smith,HR,Engineer,2019-12-28,Active,Mumbai,
+EMP0055,Sara Patel,Operations,Director,2020-10-07,Active,New York,EMP0148
+EMP0056,Aarav Müller,IT,Director,2020-06-18,Active,London,EMP0018
+EMP0057,David Patel,Sales,Manager,2019-01-23,Active,New York,EMP0077
+EMP0058,Ahmed Müller,HR,Specialist,2018-09-07,Active,Mumbai,EMP0050
+EMP0059,Liam Chen,Sales,Director,2023-02-16,Active,Singapore,EMP0001
+EMP0060,Emma Müller,Sales,Director,2019-02-28,Active,Mumbai,EMP0114
+EMP0061,Carlos Kim,Legal,Engineer,2019-02-11,Active,New York,EMP0170
+EMP0062,Sara Smith,Finance,Associate,2023-01-08,Active,London,EMP0038
+EMP0063,Emma Kim,Sales,Analyst,2021-05-24,Terminated,Singapore,EMP0148
+EMP0064,Olivia Müller,Operations,Specialist,2023-10-07,Active,London,EMP0002
+EMP0065,Sofia Smith,Operations,Engineer,2024-07-12,Active,Remote,EMP0143
+EMP0066,Sofia Smith,Operations,Engineer,2021-04-16,Active,Remote,EMP0153
+EMP0067,Ravi Kim,Sales,Associate,2020-11-03,Active,Singapore,EMP0141
+EMP0068,John Kim,Operations,Manager,2023-09-24,Active,Mumbai,EMP0134
+EMP0069,Emma Garcia,Operations,Analyst,2018-07-02,Active,Mumbai,EMP0086
+EMP0070,Carlos Smith,Finance,Engineer,2023-11-28,Active,Singapore,EMP0181
+EMP0071,Liam Müller,HR,Director,2021-04-11,Active,Singapore,EMP0214
+EMP0072,David Nguyen,Legal,Analyst,2020-01-17,Active,Singapore,EMP0242
+EMP0073,Ravi Müller,Operations,Director,2020-05-18,Active,Remote,EMP0125
+EMP0074,Liam Kim,IT,Specialist,2022-09-25,Active,Singapore,EMP0216
+EMP0075,John Nguyen,Sales,Analyst,2022-01-31,Active,Remote,EMP0007
+EMP0076,Liam Chen,Operations,Engineer,2025-12-09,Active,Mumbai,EMP0055
+EMP0077,Sara Müller,HR,Specialist,2023-09-03,Active,New York,EMP0192
+EMP0078,Sara Khan,Legal,Analyst,2019-03-12,Active,New York,EMP0244
+EMP0079,Sofia Sharma,Sales,Engineer,2023-10-29,Active,London,EMP0030
+EMP0080,Emma Kim,Legal,Manager,2022-05-14,Active,London,EMP0247
+EMP0081,Priya Chen,HR,Analyst,2020-01-05,Active,New York,EMP0148
+EMP0082,Liam Müller,Legal,Engineer,2025-08-25,Active,Remote,EMP0161
+EMP0083,Olivia Garcia,Legal,Director,2025-02-22,Active,Remote,EMP0089
+EMP0084,Ahmed Patel,IT,Director,2019-03-29,Active,Mumbai,
+EMP0085,Noor Smith,Operations,Manager,2019-05-17,Active,Singapore,EMP0112
+EMP0086,Carlos Garcia,Sales,Director,2021-01-29,Active,Singapore,EMP0188
+EMP0087,Sara Khan,IT,Manager,2021-06-12,Active,London,EMP0146
+EMP0088,Liam Patel,IT,Specialist,2022-11-09,Active,London,EMP0091
+EMP0089,Sara Garcia,Sales,Associate,2023-05-28,Active,Remote,
+EMP0090,Priya Khan,Legal,Specialist,2021-01-08,Active,Remote,EMP0177
+EMP0091,Olivia Kim,Operations,Analyst,2025-06-16,Active,Mumbai,EMP0178
+EMP0092,Ahmed Nguyen,HR,Specialist,2020-04-17,Active,Remote,EMP0191
+EMP0093,Sara Kim,HR,Manager,2023-09-07,Active,London,EMP0050
+EMP0094,Olivia Silva,Legal,Engineer,2024-05-09,Active,London,EMP0071
+EMP0095,Ravi Silva,Sales,Manager,2025-05-17,Active,London,EMP0093
+EMP0096,Aarav Silva,Finance,Manager,2025-12-28,Active,New York,EMP0179
+EMP0097,Ahmed Kim,IT,Analyst,2020-01-24,Active,Mumbai,EMP0113
+EMP0098,Aarav Garcia,Operations,Analyst,2025-10-08,Active,Singapore,EMP0148
+EMP0099,Aarav Chen,Finance,Director,2023-02-04,Active,New York,EMP0031
+EMP0100,Liam Nguyen,Sales,Director,2023-12-21,Active,Remote,EMP0233
+EMP0101,Sofia Nguyen,Operations,Manager,2020-02-15,Active,Remote,EMP0246
+EMP0102,Ravi Khan,Legal,Engineer,2023-07-15,Active,New York,EMP0045
+EMP0103,John Sharma,Operations,Specialist,2018-10-09,Active,Remote,EMP0009
+EMP0104,Olivia Garcia,Legal,Specialist,2025-09-14,Active,London,EMP0202
+EMP0105,Mei Khan,Operations,Analyst,2020-05-24,Active,London,EMP0233
+EMP0106,John Smith,IT,Engineer,2023-01-20,Active,Remote,EMP0146
+EMP0107,Noor Smith,Operations,Associate,2023-02-03,Active,Singapore,EMP0129
+EMP0108,Noor Smith,Sales,Analyst,2021-08-28,Active,Mumbai,EMP0007
+EMP0109,Ahmed Nguyen,Sales,Analyst,2018-12-18,Active,Mumbai,EMP0196
+EMP0110,Noor Silva,Legal,Specialist,2023-05-20,Active,London,EMP0112
+EMP0111,Noor Smith,Operations,Manager,2021-12-03,Active,Mumbai,EMP0027
+EMP0112,Sara Müller,Legal,Specialist,2023-04-09,Active,Singapore,EMP0141
+EMP0113,Priya Patel,HR,Manager,2025-03-15,Terminated,Singapore,EMP0212
+EMP0114,Ahmed Silva,Operations,Specialist,2025-11-22,Active,London,EMP0160
+EMP0115,Ahmed Kim,IT,Engineer,2023-07-05,Active,Remote,EMP0074
+EMP0116,Olivia Kim,IT,Analyst,2019-06-09,Active,Remote,EMP0182
+EMP0117,Carlos Sharma,Sales,Specialist,2025-06-16,Active,London,EMP0234
+EMP0118,Priya Chen,Operations,Associate,2023-03-25,Active,Remote,EMP0107
+EMP0119,Noor Khan,Operations,Director,2024-11-17,Active,Singapore,EMP0154
+EMP0120,David Chen,IT,Manager,2021-11-06,Active,Mumbai,EMP0130
+EMP0121,Aarav Garcia,Legal,Manager,2019-12-02,Active,Remote,EMP0126
+EMP0122,Noor Silva,Operations,Manager,2022-10-10,Active,Remote,EMP0097
+EMP0123,Sara Khan,Legal,Engineer,2020-02-02,Active,Singapore,EMP0199
+EMP0124,Sara Kim,Legal,Specialist,2022-03-04,Active,London,EMP0010
+EMP0125,Mei Patel,IT,Specialist,2025-05-20,Active,Remote,EMP0004
+EMP0126,Liam Chen,IT,Specialist,2023-07-13,Active,Mumbai,EMP0102
+EMP0127,Sofia Patel,Legal,Director,2022-03-29,Active,Mumbai,EMP0228
+EMP0128,Sofia Silva,IT,Director,2025-09-25,Active,London,EMP0236
+EMP0129,Emma Smith,Operations,Analyst,2019-05-25,Active,New York,EMP0178
+EMP0130,Aarav Sharma,HR,Analyst,2023-03-19,Active,Mumbai,EMP0038
+EMP0131,Liam Nguyen,Legal,Engineer,2024-08-05,Active,London,EMP0223
+EMP0132,Ahmed Khan,Operations,Director,2024-11-23,Active,London,EMP0066
+EMP0133,Ahmed Sharma,Operations,Manager,2018-11-26,Active,Remote,EMP0114
+EMP0134,Mei Garcia,Legal,Specialist,2018-10-05,Active,Mumbai,EMP0078
+EMP0135,Liam Kim,IT,Engineer,2022-03-23,Active,Remote,EMP0076
+EMP0136,Wei Sharma,Legal,Specialist,2023-06-04,Active,New York,EMP0176
+EMP0137,Aarav Nguyen,Legal,Specialist,2023-04-17,Active,London,EMP0091
+EMP0138,Emma Nguyen,HR,Associate,2018-06-02,Active,London,EMP0232
+EMP0139,Aarav Garcia,Operations,Analyst,2020-01-02,Active,Mumbai,EMP0024
+EMP0140,Sara Müller,Finance,Engineer,2025-01-07,Active,Remote,EMP0094
+EMP0141,David Garcia,Finance,Manager,2021-02-05,Active,Mumbai,EMP0087
+EMP0142,Noor Smith,Finance,Engineer,2018-12-01,Active,Singapore,EMP0206
+EMP0143,Priya Müller,IT,Manager,2020-06-26,Active,New York,EMP0173
+EMP0144,Wei Nguyen,Operations,Associate,2022-05-03,Active,New York,EMP0121
+EMP0145,David Silva,HR,Director,2024-01-08,Terminated,New York,EMP0119
+EMP0146,Wei Müller,IT,Engineer,2025-12-29,Active,New York,EMP0127
+EMP0147,Emma Silva,Finance,Specialist,2021-05-31,Active,Mumbai,EMP0191
+EMP0148,Carlos Müller,Sales,Associate,2024-10-08,Active,Singapore,EMP0214
+EMP0149,Liam Garcia,IT,Associate,2022-05-07,Active,London,EMP0244
+EMP0150,Sara Smith,Legal,Manager,2020-05-24,Active,Mumbai,EMP0071
+EMP0151,Priya Kim,IT,Associate,2024-02-15,Active,Remote,EMP0013
+EMP0152,Emma Chen,Sales,Engineer,2025-09-24,Active,Remote,EMP0056
+EMP0153,Emma Patel,Finance,Director,2026-06-21,Active,Mumbai,EMP0038
+EMP0154,Carlos Garcia,Finance,Analyst,2019-02-02,Active,New York,EMP0092
+EMP0155,Emma Nguyen,HR,Analyst,2024-07-19,Active,Mumbai,EMP0190
+EMP0156,Priya Smith,Operations,Specialist,2022-06-11,Active,Remote,EMP0116
+EMP0157,Mei Sharma,Legal,Associate,2020-08-27,Active,Mumbai,EMP0247
+EMP0158,Noor Müller,Operations,Associate,2025-04-16,Terminated,Singapore,EMP0114
+EMP0159,Priya Patel,Sales,Engineer,2025-10-06,Active,London,EMP0163
+EMP0160,Olivia Patel,Operations,Director,2020-07-20,Active,Mumbai,EMP0155
+EMP0161,Ravi Smith,Legal,Associate,2020-04-26,Active,London,EMP0228
+EMP0162,Sara Kim,Operations,Specialist,2025-06-08,Active,Mumbai,EMP0171
+EMP0163,John Kim,IT,Analyst,2025-07-18,Active,New York,EMP0191
+EMP0164,Ravi Chen,Sales,Analyst,2019-12-04,Active,Remote,EMP0172
+EMP0165,Sara Müller,Legal,Analyst,2023-04-11,Active,Remote,EMP0027
+EMP0166,Emma Chen,Legal,Specialist,2023-12-27,Active,New York,EMP0143
+EMP0167,Ravi Garcia,Sales,Engineer,2021-09-09,Active,Remote,EMP0210
+EMP0168,Ahmed Silva,IT,Director,2019-02-15,Active,Mumbai,
+EMP0169,Ravi Garcia,HR,Manager,2026-06-07,Active,London,EMP0145
+EMP0170,Priya Chen,Legal,Associate,2026-02-27,Active,New York,EMP0056
+EMP0171,Noor Patel,Finance,Manager,2023-01-03,Active,Mumbai,EMP0146
+EMP0172,David Sharma,Finance,Engineer,2019-07-29,Active,New York,EMP0070
+EMP0173,Liam Kim,Sales,Specialist,2021-11-09,Active,Mumbai,EMP0132
+EMP0174,Liam Smith,HR,Associate,2018-11-22,Active,Remote,EMP0171
+EMP0175,Emma Müller,Sales,Analyst,2026-06-01,Active,London,EMP0055
+EMP0176,Ravi Garcia,HR,Manager,2025-02-26,Active,New York,EMP0111
+EMP0177,Liam Silva,Legal,Engineer,2020-11-21,Active,Remote,EMP0207
+EMP0178,Liam Sharma,Operations,Analyst,2021-05-06,Active,New York,EMP0148
+EMP0179,Liam Müller,HR,Analyst,2021-12-16,Active,New York,EMP0044
+EMP0180,Mei Kim,Legal,Manager,2025-07-07,Active,Singapore,EMP0063
+EMP0181,Liam Silva,IT,Specialist,2023-01-09,Active,Mumbai,EMP0200
+EMP0182,Carlos Smith,Sales,Director,2024-04-29,Active,Mumbai,EMP0246
+EMP0183,Sofia Chen,Finance,Analyst,2024-11-10,Active,Mumbai,EMP0155
+EMP0184,Ravi Smith,Finance,Associate,2020-12-17,Active,Singapore,EMP0195
+EMP0185,Ahmed Nguyen,Legal,Associate,2019-07-01,Active,Mumbai,EMP0161
+EMP0186,Noor Smith,Operations,Specialist,2019-06-03,Active,Mumbai,EMP0152
+EMP0187,Carlos Smith,HR,Specialist,2021-06-07,Active,New York,EMP0213
+EMP0188,Ahmed Smith,Sales,Director,2020-10-25,Active,Singapore,EMP0142
+EMP0189,Olivia Sharma,Operations,Director,2019-03-12,Active,London,EMP0122
+EMP0190,Aarav Kim,IT,Manager,2018-06-29,Active,New York,EMP0045
+EMP0191,Olivia Kim,Operations,Director,2020-08-21,Terminated,Remote,EMP0096
+EMP0192,Liam Müller,HR,Associate,2019-10-19,Active,New York,EMP0166
+EMP0193,Sara Smith,Sales,Associate,2022-03-02,Active,Mumbai,EMP0219
+EMP0194,David Nguyen,Finance,Manager,2025-08-03,Active,Remote,EMP0235
+EMP0195,Ahmed Müller,Finance,Director,2018-07-21,Active,New York,EMP0097
+EMP0196,Sara Chen,Legal,Associate,2018-10-25,Active,Remote,EMP0172
+EMP0197,Sara Sharma,HR,Manager,2024-06-24,Active,London,EMP0197
+EMP0198,Emma Chen,Finance,Analyst,2023-03-09,Active,New York,EMP0139
+EMP0199,David Silva,IT,Associate,2022-09-22,Active,Remote,EMP0097
+EMP0200,John Nguyen,Finance,Associate,2021-08-05,Active,New York,EMP0174
+EMP0201,Noor Nguyen,HR,Associate,2021-06-20,Active,London,EMP0080
+EMP0202,Ravi Kim,Finance,Manager,2018-11-23,Active,Remote,EMP0119
+EMP0203,Ravi Müller,Sales,Director,2021-10-22,Active,London,EMP0206
+EMP0204,Sofia Garcia,IT,Associate,2021-02-10,Active,Mumbai,EMP0027
+EMP0205,Carlos Smith,HR,Analyst,2024-09-14,Active,Mumbai,EMP0132
+EMP0206,Liam Smith,Finance,Specialist,2022-08-01,Active,New York,EMP0102
+EMP0207,Emma Müller,IT,Manager,2023-12-26,Active,New York,EMP0026
+EMP0208,Ahmed Patel,Finance,Engineer,2026-01-27,Active,Mumbai,EMP0121
+EMP0209,John Kim,Operations,Director,2026-06-11,Active,New York,
+EMP0210,John Silva,Legal,Director,2020-08-01,Active,Singapore,EMP0074
+EMP0211,Priya Sharma,Finance,Specialist,2019-05-03,Active,Remote,EMP0029
+EMP0212,Noor Nguyen,Sales,Analyst,2019-06-01,Active,Remote,EMP0184
+EMP0213,Liam Sharma,Sales,Manager,2023-10-21,Active,Remote,EMP0171
+EMP0214,Carlos Patel,IT,Director,2020-05-26,Active,Remote,EMP0130
+EMP0215,Liam Kim,IT,Associate,2022-03-01,Active,Mumbai,EMP0005
+EMP0216,Priya Patel,Finance,Associate,2019-02-18,Active,New York,EMP0189
+EMP0217,John Sharma,HR,Director,2022-09-15,Active,London,EMP0176
+EMP0218,Olivia Kim,Legal,Engineer,2024-12-27,Active,New York,EMP0242
+EMP0219,Wei Khan,IT,Engineer,2026-01-12,Active,Mumbai,EMP0132
+EMP0220,Sofia Silva,Operations,Manager,2026-02-03,Active,London,EMP0221
+EMP0221,Sofia Patel,HR,Analyst,2022-05-17,Active,Singapore,EMP0191
+EMP0222,Liam Patel,Finance,Specialist,2018-09-28,Active,Singapore,EMP0205
+EMP0223,Ravi Smith,Legal,Specialist,2025-08-13,Active,Singapore,EMP0211
+EMP0224,Wei Patel,IT,Analyst,2022-10-28,Active,Mumbai,EMP0155
+EMP0225,John Kim,HR,Specialist,2026-01-10,Active,Mumbai,EMP0112
+EMP0226,Ravi Sharma,IT,Associate,2019-05-09,Active,Singapore,EMP0206
+EMP0227,John Sharma,Finance,Director,2018-11-24,Active,Singapore,
+EMP0228,Ravi Patel,HR,Specialist,2020-02-21,Active,New York,EMP0174
+EMP0229,Sara Patel,Operations,Analyst,2020-01-25,Active,London,EMP0102
+EMP0230,Wei Khan,IT,Analyst,2024-05-31,Active,Singapore,EMP0234
+EMP0231,Wei Garcia,Legal,Specialist,2024-02-05,Active,Remote,EMP0235
+EMP0232,Emma Smith,Finance,Analyst,2021-06-07,Active,London,EMP0114
+EMP0233,Ravi Patel,Legal,Manager,2018-07-18,Active,New York,EMP0075
+EMP0234,Sofia Chen,Legal,Associate,2018-08-25,Active,London,EMP0131
+EMP0235,Emma Chen,Finance,Specialist,2026-03-17,Active,Mumbai,EMP0095
+EMP0236,Carlos Chen,Sales,Analyst,2025-10-06,Active,Mumbai,EMP0184
+EMP0237,Carlos Müller,Operations,Director,2025-09-03,Active,London,EMP0165
+EMP0238,Noor Silva,HR,Engineer,2020-04-26,Active,Remote,EMP0248
+EMP0239,Carlos Sharma,IT,Director,2024-10-14,Active,Mumbai,EMP0083
+EMP0240,Emma Patel,Sales,Manager,2025-08-13,Active,Mumbai,EMP0245
+EMP0241,John Garcia,Sales,Director,2025-06-15,Active,Remote,EMP0152
+EMP0242,John Chen,Legal,Director,2018-06-03,Active,Remote,EMP0237
+EMP0243,Sofia Sharma,IT,Analyst,2019-04-23,Active,Remote,EMP0054
+EMP0244,Liam Nguyen,Legal,Analyst,2020-12-01,Active,Remote,EMP0245
+EMP0245,Emma Müller,HR,Specialist,2025-09-07,Active,New York,EMP0107
+EMP0246,Emma Patel,Sales,Engineer,2022-12-30,Active,Mumbai,EMP0221
+EMP0247,Liam Chen,HR,Director,2020-03-15,Active,New York,EMP0120
+EMP0248,Noor Khan,Finance,Analyst,2025-12-07,Active,Mumbai,EMP0222
+EMP0249,Emma Chen,HR,Director,2018-06-01,Active,Mumbai,EMP0041
+EMP0250,Carlos Kim,Operations,Manager,2020-12-03,Active,New York,EMP0101

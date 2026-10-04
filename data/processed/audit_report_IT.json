@@ -1,0 +1,383 @@
+{
+  "department": "IT",
+  "framework": "ISO/IEC 27001:2022",
+  "executive_summary": "**Overall Posture**  \nThe access\u2011control audit of the IT department against ISO/IEC\u202f27001:2022 evaluated 12 controls. Four controls (33\u202f%) were found non\u2011compliant, six (50\u202f%) were partially compliant, and two (17\u202f%) lacked sufficient evidence. The aggregate compliance profile indicates that while a majority of controls are progressing toward the standard, critical gaps remain\u2014particularly in termination responsibilities, monitoring activities, and authentication safeguards. These gaps elevate the department\u2019s risk exposure and require immediate remediation to meet ISO/IEC\u202f27001:2022 requirements.\n\n**Key Findings**  \n\n- **A.6.5 \u2013 Termination responsibilities** \u2013 Non\u2011compliant; 2 of 3 sampled records violated the control, exposing the organization to continued access for former staff (critical risk).  \n- **A.8.16 \u2013 Monitoring activities** \u2013 Non\u2011compliant; 175 violations out of 3,669 records demonstrate inadequate activity monitoring, raising the risk of undetected incidents (high risk).  \n- **A.5.17 \u2013 Authentication information** \u2013 Non\u2011compliant; 1 of 95 records showed improper protection of authentication data, creating a high\u2011impact risk of credential compromise.  \n- **A.8.5 \u2013 Secure authentication** \u2013 Non\u2011compliant; 1 violation out of 95 records confirms a failure to enforce secure authentication mechanisms, a critical control.  \n- **Partial compliance** \u2013 Six controls met the standard only partially, indicating incomplete implementation or documentation.  \n- **Insufficient evidence** \u2013 Two controls could not be fully assessed due to lack of supporting documentation, limiting assurance on their effectiveness.\n\n**Recommended Priority Actions**  \n\n- **Terminate access promptly** \u2013 Implement a formalized, auditable termination process for all departing personnel; verify revocation of all privileges within 24\u202fhours of departure.  \n- **Strengthen monitoring** \u2013 Deploy continuous logging and automated alerts for critical systems; remediate the 175 identified monitoring gaps and establish regular review cycles.  \n- **Secure authentication data** \u2013 Enforce encryption and strict handling procedures for authentication information; remediate the identified breach (record ACC00280) and conduct a full inventory of credential stores.  \n- **Address secure authentication control (A.8.5)** \u2013 Review authentication mechanisms, enforce multi\u2011factor authentication where applicable, and close the identified violation.  \n- **Close evidence gaps** \u2013 Collect and retain required documentation for the two controls currently lacking sufficient evidence to enable full compliance verification.  \n- **Improve partial\u2011compliance controls** \u2013 Develop corrective action plans for each partially compliant control, targeting full alignment with ISO/IEC\u202f27001:2022 Annex\u202fA requirements.  \n\nTimely execution of these actions will reduce the critical and high\u2011risk scores, improve the overall compliance posture, and align the IT department with ISO/IEC\u202f27001:2022 expectations.",
+  "findings": [
+    {
+      "control_id": "A.5.15",
+      "control_name": "Access control",
+      "compliance_status": "Partially Compliant",
+      "reasoning": "The presence of 95 records shows that evidence for the Access Control control (A.5.15) exists, but without reviewing the content of those records we cannot confirm full adherence to ISO 27001 requirements; therefore only a partial compliance assessment can be made based on count alone.",
+      "risk_note": "Relying solely on record count leaves uncertainty about the effectiveness of access controls, potentially exposing the organization to unauthorized access risks if the underlying controls are insufficient or not properly documented.",
+      "evidence_record_ids": [
+        "ACC00004",
+        "ACC00005",
+        "ACC00011",
+        "ACC00012",
+        "ACC00013",
+        "ACC00035",
+        "ACC00059",
+        "ACC00060",
+        "ACC00061",
+        "ACC00065",
+        "ACC00066",
+        "ACC00068",
+        "ACC00069",
+        "ACC00070",
+        "ACC00073",
+        "ACC00074",
+        "ACC00088",
+        "ACC00096",
+        "ACC00097",
+        "ACC00098"
+      ]
+    },
+    {
+      "control_id": "A.5.16",
+      "control_name": "Identity management",
+      "compliance_status": "Partially Compliant",
+      "reasoning": "A total of 95 records were identified, indicating that evidence for identity management exists, but without reviewing the content we cannot confirm full adherence to the control requirements.",
+      "risk_note": "Because the records have not been examined, there may be unidentified gaps or weaknesses in the identity management processes, so residual risk remains until detailed verification is performed.",
+      "evidence_record_ids": [
+        "ACC00004",
+        "ACC00005",
+        "ACC00011",
+        "ACC00012",
+        "ACC00013",
+        "ACC00035",
+        "ACC00059",
+        "ACC00060",
+        "ACC00061",
+        "ACC00065",
+        "ACC00066",
+        "ACC00068",
+        "ACC00069",
+        "ACC00070",
+        "ACC00073",
+        "ACC00074",
+        "ACC00088",
+        "ACC00096",
+        "ACC00097",
+        "ACC00098"
+      ]
+    },
+    {
+      "control_id": "A.5.17",
+      "control_name": "Authentication information",
+      "compliance_status": "Non-compliant",
+      "reasoning": "Evidence shows 1 out of 95 records violate the Authentication information control, indicating that the organization has at least one instance where authentication data is not properly protected, which breaches the control requirements.",
+      "risk_note": "Given the control\u2019s high criticality, even a single violation poses a significant risk of unauthorized access or credential compromise. Immediate remediation is required to prevent potential security incidents.",
+      "evidence_record_ids": [
+        "ACC00280"
+      ]
+    },
+    {
+      "control_id": "A.5.18",
+      "control_name": "Access rights",
+      "compliance_status": "Partially Compliant",
+      "reasoning": "The presence of 95 records shows evidence collection, but without reviewing the actual content we cannot confirm that access rights are adequately defined, granted, reviewed, and revoked as required by ISO/IEC 27001:2022 Annex A. Therefore the assessment can only be deemed partially compliant.",
+      "risk_note": "Relying solely on record count may mask gaps in access control processes; a detailed review is needed to identify potential unauthorized access or inadequate rights management.",
+      "evidence_record_ids": [
+        "ACC00004",
+        "ACC00005",
+        "ACC00011",
+        "ACC00012",
+        "ACC00013",
+        "ACC00035",
+        "ACC00059",
+        "ACC00060",
+        "ACC00061",
+        "ACC00065",
+        "ACC00066",
+        "ACC00068",
+        "ACC00069",
+        "ACC00070",
+        "ACC00073",
+        "ACC00074",
+        "ACC00088",
+        "ACC00096",
+        "ACC00097",
+        "ACC00098"
+      ]
+    },
+    {
+      "control_id": "A.8.2",
+      "control_name": "Privileged access rights",
+      "compliance_status": "Partially Compliant",
+      "reasoning": "Only the count of 27 privileged\u2011access records is known; their content has not been examined, so compliance cannot be confirmed beyond the fact that evidence exists.",
+      "risk_note": "Without reviewing the records, gaps in privileged\u2011access management may remain undetected, posing a risk of unauthorized or excessive privileges.",
+      "evidence_record_ids": [
+        "ACC00004",
+        "ACC00035",
+        "ACC00069",
+        "ACC00097",
+        "ACC00102",
+        "ACC00103",
+        "ACC00104",
+        "ACC00167",
+        "ACC00173",
+        "ACC00176",
+        "ACC00226",
+        "ACC00229",
+        "ACC00230",
+        "ACC00251",
+        "ACC00280",
+        "ACC00281",
+        "ACC00286",
+        "ACC00299",
+        "ACC00323",
+        "ACC00325"
+      ]
+    },
+    {
+      "control_id": "A.8.3",
+      "control_name": "Information access restriction",
+      "compliance_status": "Partially Compliant",
+      "reasoning": "Only the total count of 95 records is known; without reviewing the actual content we cannot verify that the required access restriction measures are in place or effective, so compliance can only be assessed as partial based on the evidence existence alone.",
+      "risk_note": "The lack of substantive review poses a risk that access controls may be insufficient or improperly documented; a detailed examination of the records is needed to confirm full compliance and mitigate potential security gaps.",
+      "evidence_record_ids": [
+        "ACC00004",
+        "ACC00005",
+        "ACC00011",
+        "ACC00012",
+        "ACC00013",
+        "ACC00035",
+        "ACC00059",
+        "ACC00060",
+        "ACC00061",
+        "ACC00065",
+        "ACC00066",
+        "ACC00068",
+        "ACC00069",
+        "ACC00070",
+        "ACC00073",
+        "ACC00074",
+        "ACC00088",
+        "ACC00096",
+        "ACC00097",
+        "ACC00098"
+      ]
+    },
+    {
+      "control_id": "A.8.5",
+      "control_name": "Secure authentication",
+      "compliance_status": "Non-compliant",
+      "reasoning": "The evidence identified 1 violation out of 95 records, and any non-zero count indicates a confirmed problem for this critical control, meaning the organization fails to meet the secure authentication requirement.",
+      "risk_note": "Given the control's criticality, the identified authentication breach poses a high risk of unauthorized access and should be remediated immediately.",
+      "evidence_record_ids": [
+        "ACC00280"
+      ]
+    },
+    {
+      "control_id": "A.8.9",
+      "control_name": "Configuration management",
+      "compliance_status": "Insufficient Evidence",
+      "reasoning": "No evidence was collected for this control - cannot be assessed.",
+      "risk_note": "N/A",
+      "evidence_record_ids": []
+    },
+    {
+      "control_id": "A.8.15",
+      "control_name": "Logging",
+      "compliance_status": "Partially Compliant",
+      "reasoning": "Only the quantity of records (50) is known; no review of the actual log content, completeness, integrity, or retention has been performed, so compliance cannot be fully confirmed.",
+      "risk_note": "Without examining log details, there remains a risk that logging requirements (e.g., coverage, accuracy, timely review) are not met, potentially leaving gaps in detection and forensic capabilities.",
+      "evidence_record_ids": [
+        "LOG000007",
+        "LOG000009",
+        "LOG000025",
+        "LOG000033",
+        "LOG000034",
+        "LOG000036",
+        "LOG000048",
+        "LOG000062",
+        "LOG000067",
+        "LOG000068",
+        "LOG000070",
+        "LOG000072",
+        "LOG000077",
+        "LOG000078",
+        "LOG000085",
+        "LOG000091",
+        "LOG000094",
+        "LOG000095",
+        "LOG000102",
+        "LOG000106"
+      ]
+    },
+    {
+      "control_id": "A.8.16",
+      "control_name": "Monitoring activities",
+      "compliance_status": "Non-compliant",
+      "reasoning": "175 violations were identified out of 3669 records, indicating that monitoring activities are not being performed as required by control A.8.16",
+      "risk_note": "Failure to monitor activities increases the likelihood of undetected security incidents, data breaches, and non\u2011conformance with ISO 27001, raising the overall risk profile.",
+      "evidence_record_ids": [
+        "LOG000033",
+        "LOG000241",
+        "LOG000286",
+        "LOG000354",
+        "LOG000367",
+        "LOG000456",
+        "LOG000789",
+        "LOG000850",
+        "LOG000865",
+        "LOG000955",
+        "LOG001061",
+        "LOG001207",
+        "LOG001211",
+        "LOG001252",
+        "LOG001396",
+        "LOG001404",
+        "LOG001444",
+        "LOG001764",
+        "LOG001949",
+        "LOG001972"
+      ]
+    },
+    {
+      "control_id": "A.6.3",
+      "control_name": "Awareness, education, training",
+      "compliance_status": "Insufficient Evidence",
+      "reasoning": "No evidence was collected for this control - cannot be assessed.",
+      "risk_note": "N/A",
+      "evidence_record_ids": []
+    },
+    {
+      "control_id": "A.6.5",
+      "control_name": "Termination responsibilities",
+      "compliance_status": "Non-compliant",
+      "reasoning": "Evidence shows 2 of 3 sampled records breach the termination responsibilities control, indicating that the organization is not consistently revoking access or handling assets upon employee departure as required by ISO/IEC 27001:2022 Annex A. The presence of any violations (non\u2011zero count) constitutes a confirmed compliance problem.",
+      "risk_note": "Given the control's High criticality, failures in termination can lead to continued access for former staff, potential data leakage, insider misuse, and legal/regulatory repercussions. Immediate corrective actions are required to mitigate these risks.",
+      "evidence_record_ids": [
+        "ACC00011",
+        "ACC00013"
+      ]
+    }
+  ],
+  "risk_scores": [
+    {
+      "control_id": "A.6.5",
+      "control_name": "Termination responsibilities",
+      "compliance_status": "Non-compliant",
+      "risk_score": 70,
+      "risk_level": "Critical",
+      "contributing_factors": [
+        "Compliance status: Non-compliant (+50)",
+        "Violation ratio: 2/3 = 66.7% (+20)"
+      ]
+    },
+    {
+      "control_id": "A.8.16",
+      "control_name": "Monitoring activities",
+      "compliance_status": "Non-compliant",
+      "risk_score": 51,
+      "risk_level": "High",
+      "contributing_factors": [
+        "Compliance status: Non-compliant (+50)",
+        "Violation ratio: 175/3669 = 4.8% (+1)"
+      ]
+    },
+    {
+      "control_id": "A.5.17",
+      "control_name": "Authentication information",
+      "compliance_status": "Non-compliant",
+      "risk_score": 50,
+      "risk_level": "High",
+      "contributing_factors": [
+        "Compliance status: Non-compliant (+50)",
+        "Violation ratio: 1/95 = 1.1% (+0)"
+      ]
+    },
+    {
+      "control_id": "A.8.5",
+      "control_name": "Secure authentication",
+      "compliance_status": "Non-compliant",
+      "risk_score": 50,
+      "risk_level": "High",
+      "contributing_factors": [
+        "Compliance status: Non-compliant (+50)",
+        "Violation ratio: 1/95 = 1.1% (+0)"
+      ]
+    },
+    {
+      "control_id": "A.5.15",
+      "control_name": "Access control",
+      "compliance_status": "Partially Compliant",
+      "risk_score": 25,
+      "risk_level": "Medium",
+      "contributing_factors": [
+        "Compliance status: Partially Compliant (+25)"
+      ]
+    },
+    {
+      "control_id": "A.5.16",
+      "control_name": "Identity management",
+      "compliance_status": "Partially Compliant",
+      "risk_score": 25,
+      "risk_level": "Medium",
+      "contributing_factors": [
+        "Compliance status: Partially Compliant (+25)"
+      ]
+    },
+    {
+      "control_id": "A.5.18",
+      "control_name": "Access rights",
+      "compliance_status": "Partially Compliant",
+      "risk_score": 25,
+      "risk_level": "Medium",
+      "contributing_factors": [
+        "Compliance status: Partially Compliant (+25)"
+      ]
+    },
+    {
+      "control_id": "A.8.2",
+      "control_name": "Privileged access rights",
+      "compliance_status": "Partially Compliant",
+      "risk_score": 25,
+      "risk_level": "Medium",
+      "contributing_factors": [
+        "Compliance status: Partially Compliant (+25)"
+      ]
+    },
+    {
+      "control_id": "A.8.3",
+      "control_name": "Information access restriction",
+      "compliance_status": "Partially Compliant",
+      "risk_score": 25,
+      "risk_level": "Medium",
+      "contributing_factors": [
+        "Compliance status: Partially Compliant (+25)"
+      ]
+    },
+    {
+      "control_id": "A.8.15",
+      "control_name": "Logging",
+      "compliance_status": "Partially Compliant",
+      "risk_score": 25,
+      "risk_level": "Medium",
+      "contributing_factors": [
+        "Compliance status: Partially Compliant (+25)"
+      ]
+    },
+    {
+      "control_id": "A.8.9",
+      "control_name": "Configuration management",
+      "compliance_status": "Insufficient Evidence",
+      "risk_score": 15,
+      "risk_level": "Low",
+      "contributing_factors": [
+        "Compliance status: Insufficient Evidence (+15)"
+      ]
+    },
+    {
+      "control_id": "A.6.3",
+      "control_name": "Awareness, education, training",
+      "compliance_status": "Insufficient Evidence",
+      "risk_score": 15,
+      "risk_level": "Low",
+      "contributing_factors": [
+        "Compliance status: Insufficient Evidence (+15)"
+      ]
+    }
+  ]
+}

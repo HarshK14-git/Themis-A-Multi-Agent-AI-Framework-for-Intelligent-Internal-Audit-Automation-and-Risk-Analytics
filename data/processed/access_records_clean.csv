@@ -1,0 +1,501 @@
+record_id,employee_id,system,role,permission,privilege_level,mfa_enabled,access_granted_date,last_access_date,status
+ACC00001,EMP0001,AWS Console,Engineer,Read,Standard,True,2026-03-21,2026-05-21,Active
+ACC00002,EMP0001,CRM,Engineer,Read/Write,Standard,True,2024-11-24,2026-03-17,Active
+ACC00003,EMP0001,Payroll System,Engineer,Read,Standard,True,2024-02-01,2026-06-28,Active
+ACC00004,EMP0002,File Server,Analyst,Read/Write,Elevated,True,2026-03-20,2026-03-09,Active
+ACC00005,EMP0002,Active Directory,Analyst,Admin,Standard,True,2023-05-26,2026-05-20,Active
+ACC00006,EMP0003,AWS Console,Engineer,Admin,Standard,True,2023-01-03,2026-02-08,Revoked
+ACC00007,EMP0004,ERP,Specialist,Admin,Standard,True,2023-05-17,2026-04-30,Revoked
+ACC00008,EMP0004,CRM,Specialist,Read,Elevated,True,2026-04-01,2026-07-23,Active
+ACC00009,EMP0004,File Server,Specialist,Read/Write,Standard,True,2023-08-04,2026-04-07,Active
+ACC00010,EMP0005,Payroll System,Analyst,Admin,Elevated,False,2025-08-04,2026-04-23,Active
+ACC00011,EMP0006,File Server,Specialist,Read/Write,Standard,True,2022-07-12,2026-03-10,Active
+ACC00012,EMP0006,Active Directory,Specialist,Admin,Standard,True,2024-08-23,2026-02-10,Revoked
+ACC00013,EMP0006,Payroll System,Specialist,Admin,Standard,True,2022-08-23,2026-02-21,Active
+ACC00014,EMP0007,Payroll System,Engineer,Write,Standard,True,2026-03-19,2026-03-05,Active
+ACC00015,EMP0008,CRM,Analyst,Read/Write,Standard,True,2025-09-03,2026-02-08,Active
+ACC00016,EMP0008,Payroll System,Analyst,Read,Standard,True,2025-06-07,2026-07-28,Active
+ACC00017,EMP0009,Active Directory,Associate,Write,Standard,True,2024-03-14,2026-03-26,Active
+ACC00018,EMP0009,AWS Console,Associate,Read,Elevated,True,2022-07-18,2026-06-27,Active
+ACC00019,EMP0010,CRM,Specialist,Read/Write,Admin,True,2024-09-28,2026-06-18,Active
+ACC00020,EMP0010,Payroll System,Specialist,Admin,Standard,True,2023-06-10,2026-05-03,Active
+ACC00021,EMP0010,Active Directory,Specialist,Admin,Standard,True,2023-01-30,2026-03-31,Active
+ACC00022,EMP0011,CRM,Analyst,Admin,Standard,True,2025-03-29,2026-05-17,Active
+ACC00023,EMP0012,File Server,Associate,Read/Write,Standard,True,2024-09-21,2026-04-01,Active
+ACC00024,EMP0012,CRM,Associate,Admin,Standard,True,2024-11-20,2026-07-01,Active
+ACC00025,EMP0013,File Server,Associate,Admin,Elevated,True,2025-09-06,2026-05-19,Active
+ACC00026,EMP0013,Payroll System,Associate,Read,Standard,True,2024-07-23,2026-04-10,Active
+ACC00027,EMP0013,AWS Console,Associate,Read/Write,Standard,True,2025-04-20,2026-06-11,Active
+ACC00028,EMP0014,Active Directory,Engineer,Write,Standard,True,2025-02-21,2026-07-20,Active
+ACC00029,EMP0014,Payroll System,Engineer,Write,Standard,True,2022-12-04,2026-06-03,Active
+ACC00030,EMP0014,File Server,Engineer,Read/Write,Standard,True,2024-08-25,2026-01-30,Active
+ACC00031,EMP0015,ERP,Engineer,Write,Standard,True,2024-03-21,2026-02-15,Active
+ACC00032,EMP0015,CRM,Engineer,Write,Admin,True,2024-11-21,2026-05-11,Active
+ACC00033,EMP0016,File Server,Director,Write,Admin,False,2023-07-03,2026-01-24,Active
+ACC00034,EMP0016,ERP,Director,Write,Elevated,True,2024-02-28,2026-06-17,Active
+ACC00035,EMP0017,AWS Console,Manager,Admin,Elevated,True,2026-04-17,2026-07-30,Active
+ACC00036,EMP0018,Payroll System,Engineer,Admin,Standard,True,2024-11-27,2026-04-07,Active
+ACC00037,EMP0018,File Server,Engineer,Read/Write,Admin,True,2025-10-01,2026-03-25,Active
+ACC00038,EMP0019,Active Directory,Engineer,Read/Write,Elevated,True,2022-11-13,2026-05-28,Active
+ACC00039,EMP0019,CRM,Engineer,Admin,Elevated,False,2024-11-05,2026-03-09,Active
+ACC00040,EMP0020,CRM,Manager,Read,Elevated,True,2024-04-03,2026-02-11,Active
+ACC00041,EMP0020,File Server,Manager,Write,Standard,True,2023-10-29,2026-05-11,Active
+ACC00042,EMP0020,AWS Console,Manager,Read/Write,Admin,False,2025-03-07,2026-04-09,Active
+ACC00043,EMP0021,Active Directory,Analyst,Read,Standard,True,2025-01-13,2026-02-15,Active
+ACC00044,EMP0021,File Server,Analyst,Write,Standard,True,2026-02-25,2026-02-12,Active
+ACC00045,EMP0022,AWS Console,Engineer,Read/Write,Standard,True,2022-08-27,2026-03-26,Active
+ACC00046,EMP0023,Active Directory,Engineer,Write,Standard,True,2025-04-10,2026-06-28,Active
+ACC00047,EMP0023,ERP,Engineer,Read/Write,Standard,True,2023-02-08,2026-04-28,Active
+ACC00048,EMP0023,File Server,Engineer,Read/Write,Standard,True,2023-06-28,2026-02-12,Active
+ACC00049,EMP0024,CRM,Director,Read,Standard,True,2023-07-22,2026-04-09,Active
+ACC00050,EMP0025,File Server,Director,Write,Admin,False,2023-04-17,2026-03-17,Active
+ACC00051,EMP0025,Active Directory,Director,Admin,Standard,True,2023-08-02,2026-04-10,Active
+ACC00052,EMP0025,ERP,Director,Write,Standard,True,2022-06-25,2026-03-05,Active
+ACC00053,EMP0026,ERP,Analyst,Read,Standard,True,2023-12-17,2026-06-29,Active
+ACC00054,EMP0026,Payroll System,Analyst,Read/Write,Standard,True,2023-05-05,2026-07-18,Active
+ACC00055,EMP0027,AWS Console,Specialist,Read,Standard,True,2025-04-12,2026-03-06,Active
+ACC00056,EMP0027,Active Directory,Specialist,Read/Write,Standard,True,2024-07-27,2026-02-03,Active
+ACC00057,EMP0027,ERP,Specialist,Read,Standard,True,2026-02-11,2026-04-03,Active
+ACC00058,EMP0028,Active Directory,Specialist,Write,Standard,True,2022-11-27,2026-01-27,Active
+ACC00059,EMP0029,AWS Console,Specialist,Read/Write,Standard,True,2024-05-24,2026-07-12,Active
+ACC00060,EMP0029,Active Directory,Specialist,Write,Standard,True,2022-11-02,2026-05-04,Active
+ACC00061,EMP0029,File Server,Specialist,Read/Write,Standard,True,2023-07-15,2026-06-30,Active
+ACC00062,EMP0030,CRM,Manager,Read/Write,Admin,True,2023-07-09,2026-04-26,Active
+ACC00063,EMP0030,ERP,Manager,Admin,Elevated,True,2025-08-19,2026-05-23,Active
+ACC00064,EMP0030,Payroll System,Manager,Read,Standard,True,2026-04-28,2026-02-13,Active
+ACC00065,EMP0031,Payroll System,Analyst,Read,Standard,True,2025-12-08,2026-03-02,Active
+ACC00066,EMP0031,ERP,Analyst,Read,Standard,True,2025-02-16,2026-01-24,Active
+ACC00067,EMP0032,AWS Console,Specialist,Write,Standard,True,2026-03-09,2026-06-27,Active
+ACC00068,EMP0033,Active Directory,Specialist,Admin,Standard,True,2025-03-04,2026-05-16,Active
+ACC00069,EMP0033,CRM,Specialist,Write,Elevated,True,2024-03-08,2026-05-17,Active
+ACC00070,EMP0033,File Server,Specialist,Write,Standard,True,2022-12-28,2026-02-09,Active
+ACC00071,EMP0034,Payroll System,Associate,Admin,Standard,True,2022-11-23,2026-02-11,Active
+ACC00072,EMP0034,AWS Console,Associate,Admin,Standard,True,2022-08-06,2026-04-17,Active
+ACC00073,EMP0035,CRM,Associate,Read/Write,Standard,True,2025-02-24,2026-06-05,Active
+ACC00074,EMP0035,Active Directory,Associate,Write,Standard,True,2023-11-27,2026-07-18,Active
+ACC00075,EMP0036,AWS Console,Analyst,Admin,Standard,True,2025-05-12,2026-05-09,Active
+ACC00076,EMP0036,File Server,Analyst,Read/Write,Standard,True,2024-06-03,2026-07-09,Active
+ACC00077,EMP0036,CRM,Analyst,Write,Standard,True,2026-03-19,2026-05-25,Active
+ACC00078,EMP0037,File Server,Analyst,Read,Standard,True,2025-06-12,2026-01-19,Active
+ACC00079,EMP0037,Payroll System,Analyst,Write,Standard,True,2023-10-25,2026-06-09,Active
+ACC00080,EMP0038,Active Directory,Director,Write,Standard,True,2025-11-04,2026-01-22,Active
+ACC00081,EMP0038,ERP,Director,Write,Admin,True,2022-08-08,2026-02-28,Active
+ACC00082,EMP0039,CRM,Associate,Admin,Standard,True,2024-05-14,2026-04-04,Active
+ACC00083,EMP0039,AWS Console,Associate,Admin,Standard,True,2024-10-09,2026-05-27,Active
+ACC00084,EMP0039,File Server,Associate,Read/Write,Standard,True,2023-11-21,2026-07-07,Active
+ACC00085,EMP0040,AWS Console,Director,Read/Write,Standard,True,2026-03-31,2026-03-10,Active
+ACC00086,EMP0040,Active Directory,Director,Read,Elevated,True,2025-01-14,2026-03-13,Active
+ACC00087,EMP0040,CRM,Director,Read/Write,Admin,True,2024-11-05,2026-06-23,Active
+ACC00088,EMP0041,Active Directory,Engineer,Write,Standard,True,2023-09-14,2026-03-14,Active
+ACC00089,EMP0042,File Server,Director,Read/Write,Elevated,True,2023-12-02,2026-06-19,Active
+ACC00090,EMP0042,Active Directory,Director,Write,Elevated,True,2023-06-09,2026-03-29,Active
+ACC00091,EMP0042,Payroll System,Director,Read,Standard,True,2023-07-25,2026-07-24,Active
+ACC00092,EMP0043,File Server,Analyst,Read,Standard,True,2024-03-10,2026-06-27,Active
+ACC00093,EMP0044,CRM,Associate,Read/Write,Standard,True,2024-05-29,2026-07-17,Active
+ACC00094,EMP0044,ERP,Associate,Read/Write,Standard,True,2022-10-21,2026-03-30,Active
+ACC00095,EMP0044,File Server,Associate,Read/Write,Standard,True,2026-06-08,2026-07-28,Active
+ACC00096,EMP0045,File Server,Associate,Read/Write,Standard,True,2025-06-30,2026-07-05,Active
+ACC00097,EMP0045,Active Directory,Associate,Write,Admin,True,2025-06-04,2026-02-24,Active
+ACC00098,EMP0045,Payroll System,Associate,Admin,Standard,True,2025-01-01,2026-04-22,Active
+ACC00099,EMP0046,Active Directory,Associate,Write,Admin,True,2022-08-05,2026-06-05,Active
+ACC00100,EMP0047,File Server,Analyst,Read,Standard,True,2025-12-23,2026-04-20,Revoked
+ACC00101,EMP0047,ERP,Analyst,Read,Standard,True,2022-12-06,2026-07-30,Active
+ACC00102,EMP0048,CRM,Manager,Admin,Elevated,True,2023-05-01,2026-07-08,Active
+ACC00103,EMP0048,ERP,Manager,Write,Elevated,True,2025-04-26,2026-02-05,Active
+ACC00104,EMP0048,AWS Console,Manager,Read,Elevated,True,2026-01-31,2026-02-07,Active
+ACC00105,EMP0049,Payroll System,Associate,Write,Standard,True,2024-09-26,2026-07-28,Active
+ACC00106,EMP0049,File Server,Associate,Read/Write,Admin,True,2026-01-26,2026-05-17,Active
+ACC00107,EMP0050,Payroll System,Engineer,Read/Write,Standard,True,2022-09-15,2026-03-16,Active
+ACC00108,EMP0051,AWS Console,Associate,Read,Elevated,True,2023-09-11,2026-01-23,Active
+ACC00109,EMP0051,CRM,Associate,Read/Write,Admin,False,2025-03-14,2026-07-13,Active
+ACC00110,EMP0052,Payroll System,Manager,Admin,Admin,True,2026-05-03,2026-02-20,Active
+ACC00111,EMP0052,File Server,Manager,Read/Write,Standard,True,2023-10-02,2026-06-04,Active
+ACC00112,EMP0053,Payroll System,Manager,Read/Write,Standard,True,2026-01-08,2026-01-16,Active
+ACC00113,EMP0053,AWS Console,Manager,Write,Standard,True,2022-07-03,2026-07-14,Active
+ACC00114,EMP0054,Active Directory,Engineer,Write,Standard,True,2024-04-26,2026-05-12,Active
+ACC00115,EMP0055,ERP,Director,Admin,Standard,True,2024-01-04,2026-05-01,Active
+ACC00116,EMP0055,File Server,Director,Read,Elevated,False,2025-06-14,2026-04-13,Active
+ACC00117,EMP0056,Payroll System,Director,Read,Standard,True,2026-05-10,2026-07-10,Active
+ACC00118,EMP0056,File Server,Director,Read,Standard,True,2023-02-26,2026-03-01,Active
+ACC00119,EMP0057,AWS Console,Manager,Read/Write,Standard,True,2026-01-10,2026-01-28,Active
+ACC00120,EMP0057,ERP,Manager,Write,Admin,True,2023-04-18,2026-03-21,Active
+ACC00121,EMP0058,File Server,Specialist,Write,Standard,True,2024-12-29,2026-05-16,Active
+ACC00122,EMP0059,AWS Console,Director,Read/Write,Standard,True,2024-12-14,2026-04-16,Active
+ACC00123,EMP0059,CRM,Director,Read,Standard,True,2024-06-23,2026-05-29,Active
+ACC00124,EMP0060,File Server,Director,Write,Standard,True,2023-12-08,2026-07-05,Active
+ACC00125,EMP0061,Active Directory,Engineer,Read/Write,Standard,True,2024-08-21,2026-02-24,Active
+ACC00126,EMP0062,Active Directory,Associate,Write,Standard,True,2024-10-25,2026-05-11,Active
+ACC00127,EMP0062,AWS Console,Associate,Write,Standard,True,2023-10-25,2026-05-13,Active
+ACC00128,EMP0063,AWS Console,Analyst,Read/Write,Admin,True,2023-04-10,2026-01-13,Revoked
+ACC00129,EMP0064,Active Directory,Specialist,Read/Write,Standard,True,2024-06-15,2026-07-03,Active
+ACC00130,EMP0065,CRM,Engineer,Read,Standard,True,2023-11-30,2026-02-01,Active
+ACC00131,EMP0065,Payroll System,Engineer,Admin,Standard,True,2022-08-14,2026-07-15,Active
+ACC00132,EMP0065,File Server,Engineer,Read/Write,Elevated,True,2022-09-23,2026-03-27,Active
+ACC00133,EMP0066,File Server,Engineer,Admin,Standard,True,2022-10-23,2026-06-23,Active
+ACC00134,EMP0067,AWS Console,Associate,Read/Write,Standard,True,2023-03-28,2026-04-21,Active
+ACC00135,EMP0067,File Server,Associate,Read/Write,Standard,True,2023-06-15,2026-07-23,Active
+ACC00136,EMP0067,ERP,Associate,Read,Elevated,True,2025-11-21,2026-01-17,Active
+ACC00137,EMP0068,File Server,Manager,Write,Standard,True,2022-11-15,2026-02-26,Active
+ACC00138,EMP0069,Payroll System,Analyst,Read/Write,Admin,True,2024-08-22,2026-04-13,Active
+ACC00139,EMP0070,ERP,Engineer,Write,Standard,True,2023-08-22,2026-01-22,Active
+ACC00140,EMP0071,Payroll System,Director,Read/Write,Standard,True,2023-11-27,2026-01-16,Active
+ACC00141,EMP0071,File Server,Director,Write,Standard,True,2024-07-26,2026-07-26,Active
+ACC00142,EMP0071,CRM,Director,Admin,Standard,True,2024-03-03,2026-07-11,Active
+ACC00143,EMP0072,File Server,Analyst,Admin,Standard,True,2024-07-30,2026-04-07,Active
+ACC00144,EMP0073,Payroll System,Director,Read/Write,Standard,True,2025-12-15,2026-04-11,Active
+ACC00145,EMP0074,File Server,Specialist,Read,Standard,True,2022-07-08,2026-07-03,Active
+ACC00146,EMP0074,AWS Console,Specialist,Admin,Standard,True,2022-11-13,2026-07-05,Active
+ACC00147,EMP0074,Active Directory,Specialist,Write,Standard,True,2025-02-18,2026-03-22,Active
+ACC00148,EMP0075,Payroll System,Analyst,Read/Write,Standard,True,2023-11-29,2026-06-03,Active
+ACC00149,EMP0076,File Server,Engineer,Read/Write,Standard,True,2024-04-13,2026-07-25,Active
+ACC00150,EMP0076,CRM,Engineer,Read/Write,Elevated,True,2023-03-08,2026-04-14,Active
+ACC00151,EMP0077,ERP,Specialist,Read,Standard,True,2023-04-07,2026-07-06,Active
+ACC00152,EMP0077,CRM,Specialist,Admin,Elevated,True,2024-09-03,2026-06-12,Active
+ACC00153,EMP0078,ERP,Analyst,Read/Write,Standard,True,2023-07-18,2026-02-19,Active
+ACC00154,EMP0078,Active Directory,Analyst,Read/Write,Standard,True,2023-01-28,2026-04-23,Active
+ACC00155,EMP0079,ERP,Engineer,Admin,Elevated,True,2023-01-21,2026-03-03,Active
+ACC00156,EMP0079,Active Directory,Engineer,Write,Standard,True,2024-09-29,2026-07-02,Active
+ACC00157,EMP0079,Payroll System,Engineer,Read,Standard,True,2025-06-23,2026-04-28,Active
+ACC00158,EMP0080,CRM,Manager,Write,Standard,True,2023-04-12,2026-04-25,Active
+ACC00159,EMP0080,Payroll System,Manager,Read/Write,Standard,True,2022-12-09,2026-03-17,Active
+ACC00160,EMP0080,AWS Console,Manager,Write,Standard,True,2023-05-23,2026-06-20,Active
+ACC00161,EMP0081,Active Directory,Analyst,Read/Write,Standard,True,2023-01-11,2026-07-19,Active
+ACC00162,EMP0081,CRM,Analyst,Read/Write,Elevated,True,2025-09-26,2026-06-13,Active
+ACC00163,EMP0082,Payroll System,Engineer,Read/Write,Standard,True,2022-08-30,2026-03-29,Active
+ACC00164,EMP0082,File Server,Engineer,Read/Write,Standard,True,2023-10-06,2026-06-20,Active
+ACC00165,EMP0083,Payroll System,Director,Write,Standard,True,2024-11-11,2026-07-24,Active
+ACC00166,EMP0084,CRM,Director,Read/Write,Standard,True,2023-05-01,2026-01-23,Active
+ACC00167,EMP0084,Payroll System,Director,Read,Elevated,True,2023-04-17,2026-07-03,Active
+ACC00168,EMP0085,Payroll System,Manager,Read,Standard,True,2024-01-11,2026-03-15,Active
+ACC00169,EMP0085,Active Directory,Manager,Read/Write,Standard,True,2025-12-05,2026-01-25,Active
+ACC00170,EMP0086,CRM,Director,Admin,Standard,True,2026-01-05,2026-04-11,Active
+ACC00171,EMP0086,Active Directory,Director,Write,Elevated,False,2025-04-29,2026-01-25,Active
+ACC00172,EMP0086,ERP,Director,Admin,Standard,True,2022-07-08,2026-02-26,Active
+ACC00173,EMP0087,AWS Console,Manager,Read,Elevated,True,2023-04-22,2026-05-04,Active
+ACC00174,EMP0087,CRM,Manager,Write,Standard,True,2024-09-08,2026-02-02,Active
+ACC00175,EMP0087,Payroll System,Manager,Admin,Standard,True,2023-08-14,2026-02-09,Active
+ACC00176,EMP0088,CRM,Specialist,Read,Admin,True,2024-12-12,2026-02-15,Active
+ACC00177,EMP0089,File Server,Associate,Admin,Elevated,True,2025-02-11,2026-01-19,Active
+ACC00178,EMP0090,AWS Console,Specialist,Admin,Standard,True,2022-12-25,2026-04-17,Active
+ACC00179,EMP0090,File Server,Specialist,Read,Standard,True,2022-12-13,2026-01-17,Active
+ACC00180,EMP0090,CRM,Specialist,Admin,Standard,True,2022-08-10,2026-04-29,Active
+ACC00181,EMP0091,AWS Console,Analyst,Read,Standard,True,2023-12-07,2026-02-20,Active
+ACC00182,EMP0091,Active Directory,Analyst,Admin,Standard,True,2026-02-23,2026-03-18,Active
+ACC00183,EMP0092,CRM,Specialist,Admin,Elevated,True,2024-11-29,2026-05-07,Active
+ACC00184,EMP0092,AWS Console,Specialist,Write,Standard,True,2023-04-30,2026-03-30,Active
+ACC00185,EMP0093,File Server,Manager,Read/Write,Standard,True,2026-05-30,2026-07-01,Active
+ACC00186,EMP0093,ERP,Manager,Read/Write,Admin,True,2026-07-01,2026-04-14,Active
+ACC00187,EMP0094,File Server,Engineer,Admin,Admin,True,2025-08-11,2026-05-23,Active
+ACC00188,EMP0095,File Server,Manager,Read,Standard,True,2024-06-01,2026-02-12,Active
+ACC00189,EMP0096,CRM,Manager,Write,Standard,True,2024-02-04,2026-02-15,Active
+ACC00190,EMP0096,ERP,Manager,Read,Standard,True,2026-06-30,2026-06-08,Active
+ACC00191,EMP0096,AWS Console,Manager,Write,Standard,True,2023-03-05,2026-06-05,Active
+ACC00192,EMP0097,File Server,Analyst,Admin,Standard,True,2025-10-29,2026-04-15,Active
+ACC00193,EMP0097,AWS Console,Analyst,Read/Write,Standard,True,2026-02-07,2026-06-04,Active
+ACC00194,EMP0097,ERP,Analyst,Read,Standard,True,2025-12-03,2026-05-13,Active
+ACC00195,EMP0098,Active Directory,Analyst,Write,Standard,True,2022-11-27,2026-02-09,Active
+ACC00196,EMP0098,CRM,Analyst,Read,Standard,True,2023-01-30,2026-02-16,Active
+ACC00197,EMP0099,AWS Console,Director,Write,Standard,True,2022-12-24,2026-01-22,Active
+ACC00198,EMP0100,AWS Console,Director,Read/Write,Standard,True,2025-04-14,2026-07-10,Active
+ACC00199,EMP0101,CRM,Manager,Read/Write,Elevated,True,2024-07-13,2026-04-14,Active
+ACC00200,EMP0102,CRM,Engineer,Read,Standard,True,2025-02-09,2026-03-13,Active
+ACC00201,EMP0102,File Server,Engineer,Admin,Standard,True,2022-08-18,2026-07-26,Active
+ACC00202,EMP0103,Active Directory,Specialist,Read,Elevated,True,2025-02-27,2026-03-28,Active
+ACC00203,EMP0103,CRM,Specialist,Write,Standard,True,2023-09-13,2026-02-19,Active
+ACC00204,EMP0103,Payroll System,Specialist,Read,Standard,True,2024-06-23,2026-05-12,Active
+ACC00205,EMP0104,AWS Console,Specialist,Admin,Elevated,True,2023-06-10,2026-02-08,Active
+ACC00206,EMP0105,AWS Console,Analyst,Read,Admin,True,2023-03-18,2026-07-15,Active
+ACC00207,EMP0106,Active Directory,Engineer,Read,Standard,True,2024-04-08,2026-03-25,Active
+ACC00208,EMP0107,File Server,Associate,Read/Write,Elevated,True,2026-01-15,2026-02-19,Active
+ACC00209,EMP0107,Payroll System,Associate,Write,Standard,True,2024-12-11,2026-07-11,Active
+ACC00210,EMP0108,ERP,Analyst,Write,Admin,True,2023-06-30,2026-05-10,Active
+ACC00211,EMP0108,Payroll System,Analyst,Read,Standard,True,2024-10-05,2026-02-04,Active
+ACC00212,EMP0109,File Server,Analyst,Read,Standard,True,2024-01-25,2026-07-03,Active
+ACC00213,EMP0109,CRM,Analyst,Read,Standard,True,2024-10-07,2026-02-12,Active
+ACC00214,EMP0110,File Server,Specialist,Write,Standard,True,2022-07-27,2026-07-30,Active
+ACC00215,EMP0110,CRM,Specialist,Admin,Standard,True,2023-07-27,2026-03-22,Active
+ACC00216,EMP0110,ERP,Specialist,Write,Elevated,True,2024-06-01,2026-06-30,Active
+ACC00217,EMP0111,Active Directory,Manager,Read/Write,Standard,True,2024-12-22,2026-03-20,Active
+ACC00218,EMP0111,ERP,Manager,Read,Standard,True,2023-09-20,2026-04-07,Active
+ACC00219,EMP0111,Payroll System,Manager,Read,Standard,True,2023-09-13,2026-03-09,Active
+ACC00220,EMP0112,Active Directory,Specialist,Read,Standard,True,2023-04-14,2026-02-10,Active
+ACC00221,EMP0113,ERP,Manager,Write,Standard,True,2026-03-30,2026-04-03,Revoked
+ACC00222,EMP0113,CRM,Manager,Write,Standard,True,2026-04-21,2026-03-13,Revoked
+ACC00223,EMP0113,File Server,Manager,Write,Elevated,True,2024-09-11,2026-05-30,Revoked
+ACC00224,EMP0114,File Server,Specialist,Read,Standard,True,2023-04-19,2026-04-28,Active
+ACC00225,EMP0114,Active Directory,Specialist,Read,Standard,True,2025-06-30,2026-06-05,Active
+ACC00226,EMP0115,ERP,Engineer,Admin,Elevated,True,2024-08-31,2026-07-10,Active
+ACC00227,EMP0115,AWS Console,Engineer,Read,Standard,True,2024-06-07,2026-06-11,Active
+ACC00228,EMP0115,File Server,Engineer,Admin,Standard,True,2023-01-04,2026-05-31,Active
+ACC00229,EMP0116,Active Directory,Analyst,Write,Admin,True,2023-06-09,2026-01-19,Active
+ACC00230,EMP0116,Payroll System,Analyst,Read/Write,Elevated,True,2026-05-15,2026-06-03,Active
+ACC00231,EMP0117,Active Directory,Specialist,Read/Write,Standard,True,2024-10-11,2026-07-06,Active
+ACC00232,EMP0117,ERP,Specialist,Write,Standard,True,2024-02-24,2026-03-29,Active
+ACC00233,EMP0117,File Server,Specialist,Write,Admin,True,2022-07-06,2026-05-22,Active
+ACC00234,EMP0118,ERP,Associate,Read/Write,Admin,True,2022-07-28,2026-04-28,Active
+ACC00235,EMP0119,File Server,Director,Write,Standard,True,2022-12-05,2026-04-23,Active
+ACC00236,EMP0119,ERP,Director,Read,Standard,True,2024-01-24,2026-02-13,Active
+ACC00237,EMP0120,CRM,Manager,Admin,Standard,True,2024-04-19,2026-02-03,Active
+ACC00238,EMP0121,Active Directory,Manager,Read,Standard,True,2025-05-13,2026-06-28,Active
+ACC00239,EMP0121,File Server,Manager,Write,Elevated,True,2025-11-28,2026-06-20,Active
+ACC00240,EMP0121,AWS Console,Manager,Admin,Standard,True,2024-03-22,2026-07-02,Active
+ACC00241,EMP0122,Active Directory,Manager,Admin,Standard,True,2025-10-30,2026-07-09,Active
+ACC00242,EMP0122,CRM,Manager,Admin,Standard,True,2022-07-20,2026-02-04,Active
+ACC00243,EMP0122,AWS Console,Manager,Write,Standard,True,2024-08-30,2026-06-25,Active
+ACC00244,EMP0123,File Server,Engineer,Admin,Standard,True,2024-04-12,2026-03-23,Active
+ACC00245,EMP0124,File Server,Specialist,Write,Standard,True,2026-04-30,2026-04-20,Active
+ACC00246,EMP0125,Payroll System,Specialist,Read/Write,Standard,True,2025-12-06,2026-06-27,Active
+ACC00247,EMP0125,File Server,Specialist,Read,Standard,True,2025-04-03,2026-06-29,Active
+ACC00248,EMP0126,AWS Console,Specialist,Read,Standard,True,2023-03-28,2026-03-04,Active
+ACC00249,EMP0127,ERP,Director,Read/Write,Admin,True,2025-10-12,2026-07-09,Active
+ACC00250,EMP0127,File Server,Director,Admin,Admin,True,2025-10-25,2026-07-22,Active
+ACC00251,EMP0128,ERP,Director,Read/Write,Admin,True,2023-09-20,2026-07-25,Active
+ACC00252,EMP0128,CRM,Director,Read/Write,Standard,True,2025-07-14,2026-05-03,Active
+ACC00253,EMP0129,CRM,Analyst,Read/Write,Standard,True,2025-09-01,2026-07-24,Active
+ACC00254,EMP0130,Payroll System,Analyst,Read/Write,Standard,True,2024-03-11,2026-03-14,Active
+ACC00255,EMP0130,File Server,Analyst,Read,Standard,True,2024-12-07,2026-04-25,Active
+ACC00256,EMP0130,CRM,Analyst,Write,Standard,True,2022-11-24,2026-03-20,Active
+ACC00257,EMP0131,File Server,Engineer,Read,Admin,True,2024-05-10,2026-01-13,Active
+ACC00258,EMP0132,Active Directory,Director,Admin,Standard,True,2024-04-28,2026-05-24,Active
+ACC00259,EMP0132,AWS Console,Director,Admin,Standard,True,2023-02-26,2026-06-06,Active
+ACC00260,EMP0132,Payroll System,Director,Admin,Standard,True,2026-03-05,2026-04-03,Active
+ACC00261,EMP0133,Active Directory,Manager,Write,Admin,False,2025-01-03,2026-03-18,Active
+ACC00262,EMP0133,Payroll System,Manager,Read,Elevated,True,2025-04-09,2026-03-07,Active
+ACC00263,EMP0133,CRM,Manager,Admin,Elevated,True,2025-07-12,2026-06-17,Active
+ACC00264,EMP0134,Payroll System,Specialist,Admin,Standard,True,2023-03-09,2026-07-25,Active
+ACC00265,EMP0135,File Server,Engineer,Write,Standard,True,2023-09-28,2026-03-16,Active
+ACC00266,EMP0135,Active Directory,Engineer,Read/Write,Standard,True,2026-04-16,2026-07-09,Active
+ACC00267,EMP0135,CRM,Engineer,Write,Standard,True,2026-05-23,2026-03-20,Active
+ACC00268,EMP0136,ERP,Specialist,Write,Admin,True,2024-08-04,2026-01-30,Active
+ACC00269,EMP0136,Active Directory,Specialist,Admin,Standard,True,2026-03-03,2026-07-27,Active
+ACC00270,EMP0137,Payroll System,Specialist,Read,Elevated,False,2023-07-21,2026-04-30,Active
+ACC00271,EMP0138,Active Directory,Associate,Read,Elevated,True,2024-08-12,2026-05-16,Active
+ACC00272,EMP0139,CRM,Analyst,Read/Write,Elevated,True,2022-11-11,2026-05-12,Active
+ACC00273,EMP0139,File Server,Analyst,Admin,Standard,True,2025-04-01,2026-02-12,Active
+ACC00274,EMP0140,CRM,Engineer,Write,Elevated,True,2026-06-29,2026-02-03,Active
+ACC00275,EMP0140,AWS Console,Engineer,Read,Admin,True,2025-06-25,2026-02-28,Active
+ACC00276,EMP0140,Active Directory,Engineer,Write,Standard,True,2022-12-01,2026-03-10,Active
+ACC00277,EMP0141,AWS Console,Manager,Read,Standard,True,2025-03-02,2026-05-05,Active
+ACC00278,EMP0142,CRM,Engineer,Admin,Elevated,True,2023-12-31,2026-07-30,Active
+ACC00279,EMP0142,ERP,Engineer,Write,Standard,True,2022-08-13,2026-07-15,Active
+ACC00280,EMP0143,Active Directory,Manager,Read/Write,Elevated,False,2024-02-24,2026-06-20,Active
+ACC00281,EMP0143,ERP,Manager,Read/Write,Elevated,True,2024-07-13,2026-03-15,Active
+ACC00282,EMP0144,ERP,Associate,Write,Elevated,True,2025-08-03,2026-04-08,Active
+ACC00283,EMP0144,AWS Console,Associate,Read,Standard,True,2024-11-06,2026-07-27,Active
+ACC00284,EMP0145,Active Directory,Director,Read/Write,Standard,True,2025-08-07,2026-01-26,Active
+ACC00285,EMP0145,ERP,Director,Read,Standard,True,2024-08-09,2026-03-02,Revoked
+ACC00286,EMP0146,AWS Console,Engineer,Read/Write,Admin,True,2025-08-15,2026-07-19,Active
+ACC00287,EMP0146,ERP,Engineer,Write,Standard,True,2025-06-08,2026-04-19,Active
+ACC00288,EMP0146,File Server,Engineer,Admin,Standard,True,2022-10-19,2026-05-21,Active
+ACC00289,EMP0147,CRM,Specialist,Read/Write,Standard,True,2025-08-22,2026-07-19,Active
+ACC00290,EMP0147,ERP,Specialist,Read/Write,Standard,True,2026-01-04,2026-05-18,Active
+ACC00291,EMP0148,File Server,Associate,Read,Standard,True,2025-05-05,2026-06-19,Active
+ACC00292,EMP0148,Payroll System,Associate,Read,Standard,True,2023-11-06,2026-07-03,Active
+ACC00293,EMP0148,AWS Console,Associate,Read/Write,Standard,True,2023-11-11,2026-03-29,Active
+ACC00294,EMP0149,Active Directory,Associate,Read/Write,Standard,True,2024-06-06,2026-06-15,Active
+ACC00295,EMP0149,ERP,Associate,Admin,Standard,True,2024-01-14,2026-04-04,Active
+ACC00296,EMP0149,AWS Console,Associate,Admin,Standard,True,2023-05-04,2026-07-17,Active
+ACC00297,EMP0150,File Server,Manager,Read,Standard,True,2022-10-03,2026-05-05,Active
+ACC00298,EMP0151,AWS Console,Associate,Read/Write,Standard,True,2023-07-28,2026-04-16,Active
+ACC00299,EMP0151,Payroll System,Associate,Read/Write,Admin,True,2023-04-17,2026-06-02,Active
+ACC00300,EMP0151,CRM,Associate,Read,Standard,True,2024-04-15,2026-01-31,Active
+ACC00301,EMP0152,Payroll System,Engineer,Write,Standard,True,2025-10-29,2026-01-20,Active
+ACC00302,EMP0153,CRM,Director,Write,Admin,True,2026-04-06,2026-04-15,Active
+ACC00303,EMP0153,File Server,Director,Read/Write,Standard,True,2025-05-15,2026-02-22,Active
+ACC00304,EMP0154,Payroll System,Analyst,Read,Standard,True,2026-01-05,2026-04-24,Active
+ACC00305,EMP0155,AWS Console,Analyst,Read,Elevated,True,2022-07-29,2026-02-23,Active
+ACC00306,EMP0155,Payroll System,Analyst,Read/Write,Standard,True,2025-11-14,2026-04-17,Active
+ACC00307,EMP0155,Active Directory,Analyst,Read,Standard,True,2025-11-28,2026-03-10,Active
+ACC00308,EMP0156,Active Directory,Specialist,Read/Write,Elevated,True,2025-01-08,2026-04-25,Active
+ACC00309,EMP0157,AWS Console,Associate,Admin,Standard,True,2024-03-29,2026-06-26,Active
+ACC00310,EMP0157,Payroll System,Associate,Read/Write,Standard,True,2026-04-14,2026-04-22,Active
+ACC00311,EMP0157,File Server,Associate,Write,Elevated,True,2026-03-24,2026-01-23,Active
+ACC00312,EMP0158,Active Directory,Associate,Admin,Standard,True,2024-10-04,2026-05-22,Revoked
+ACC00313,EMP0158,File Server,Associate,Write,Elevated,True,2025-09-30,2026-05-17,Revoked
+ACC00314,EMP0159,AWS Console,Engineer,Read,Elevated,True,2025-06-13,2026-04-10,Active
+ACC00315,EMP0159,Active Directory,Engineer,Read/Write,Standard,True,2023-10-14,2026-01-19,Active
+ACC00316,EMP0159,Payroll System,Engineer,Admin,Standard,True,2026-03-09,2026-03-23,Active
+ACC00317,EMP0160,ERP,Director,Read/Write,Standard,True,2025-09-28,2026-01-14,Active
+ACC00318,EMP0161,Payroll System,Associate,Write,Standard,True,2026-03-06,2026-05-30,Active
+ACC00319,EMP0161,ERP,Associate,Read,Standard,True,2024-06-24,2026-02-02,Active
+ACC00320,EMP0161,CRM,Associate,Admin,Standard,True,2023-11-25,2026-03-25,Active
+ACC00321,EMP0162,File Server,Specialist,Write,Standard,True,2024-05-31,2026-03-29,Active
+ACC00322,EMP0162,ERP,Specialist,Write,Standard,True,2023-11-04,2026-03-04,Active
+ACC00323,EMP0163,Active Directory,Analyst,Read,Elevated,True,2024-11-26,2026-07-25,Active
+ACC00324,EMP0163,File Server,Analyst,Write,Standard,True,2023-04-18,2026-01-14,Active
+ACC00325,EMP0163,CRM,Analyst,Write,Admin,True,2022-09-14,2026-06-10,Active
+ACC00326,EMP0164,File Server,Analyst,Read,Standard,True,2023-11-05,2026-06-29,Active
+ACC00327,EMP0164,AWS Console,Analyst,Read,Standard,True,2025-03-31,2026-05-29,Active
+ACC00328,EMP0165,Active Directory,Analyst,Read/Write,Elevated,True,2025-02-01,2026-06-07,Active
+ACC00329,EMP0165,File Server,Analyst,Read/Write,Standard,True,2023-03-23,2026-07-06,Active
+ACC00330,EMP0165,AWS Console,Analyst,Admin,Standard,True,2023-05-10,2026-02-17,Active
+ACC00331,EMP0166,Payroll System,Specialist,Read/Write,Standard,True,2026-02-22,2026-05-07,Active
+ACC00332,EMP0166,Active Directory,Specialist,Admin,Admin,True,2025-01-14,2026-02-15,Active
+ACC00333,EMP0166,File Server,Specialist,Admin,Elevated,True,2025-06-12,2026-06-24,Active
+ACC00334,EMP0167,CRM,Engineer,Write,Standard,True,2026-05-11,2026-02-15,Active
+ACC00335,EMP0167,ERP,Engineer,Admin,Standard,True,2025-01-17,2026-04-16,Active
+ACC00336,EMP0167,AWS Console,Engineer,Read,Standard,True,2023-03-26,2026-02-01,Active
+ACC00337,EMP0168,CRM,Director,Read/Write,Standard,True,2022-09-26,2026-05-02,Active
+ACC00338,EMP0168,Active Directory,Director,Write,Standard,True,2022-10-25,2026-03-12,Active
+ACC00339,EMP0168,File Server,Director,Read,Standard,True,2023-11-11,2026-06-30,Active
+ACC00340,EMP0169,Active Directory,Manager,Read,Admin,True,2025-04-03,2026-05-03,Active
+ACC00341,EMP0169,Payroll System,Manager,Admin,Standard,True,2024-02-22,2026-05-09,Active
+ACC00342,EMP0169,CRM,Manager,Admin,Standard,True,2023-11-26,2026-07-02,Active
+ACC00343,EMP0170,ERP,Associate,Read,Standard,True,2023-11-08,2026-06-13,Active
+ACC00344,EMP0170,Payroll System,Associate,Read/Write,Standard,True,2023-07-13,2026-05-17,Active
+ACC00345,EMP0171,ERP,Manager,Write,Standard,True,2024-07-31,2026-04-19,Active
+ACC00346,EMP0171,CRM,Manager,Read/Write,Admin,True,2025-09-12,2026-05-13,Active
+ACC00347,EMP0172,CRM,Engineer,Write,Standard,True,2024-09-29,2026-02-20,Active
+ACC00348,EMP0172,ERP,Engineer,Read/Write,Standard,True,2024-12-19,2026-06-09,Active
+ACC00349,EMP0172,AWS Console,Engineer,Write,Elevated,True,2023-10-04,2026-01-18,Active
+ACC00350,EMP0173,CRM,Specialist,Read/Write,Standard,True,2024-03-28,2026-04-14,Active
+ACC00351,EMP0174,AWS Console,Associate,Write,Standard,True,2024-05-29,2026-07-29,Active
+ACC00352,EMP0174,ERP,Associate,Write,Elevated,True,2026-05-27,2026-02-09,Active
+ACC00353,EMP0175,File Server,Analyst,Admin,Elevated,True,2024-10-01,2026-06-29,Active
+ACC00354,EMP0176,AWS Console,Manager,Admin,Standard,True,2025-07-25,2026-07-16,Active
+ACC00355,EMP0177,Active Directory,Engineer,Admin,Admin,True,2024-01-26,2026-02-07,Active
+ACC00356,EMP0178,Active Directory,Analyst,Write,Admin,True,2025-07-30,2026-04-20,Active
+ACC00357,EMP0179,CRM,Analyst,Write,Standard,True,2025-04-26,2026-01-26,Active
+ACC00358,EMP0180,Payroll System,Manager,Read,Standard,True,2024-06-12,2026-01-31,Active
+ACC00359,EMP0181,ERP,Specialist,Read,Elevated,True,2022-10-16,2026-07-05,Active
+ACC00360,EMP0181,AWS Console,Specialist,Read,Standard,True,2026-03-26,2026-02-06,Active
+ACC00361,EMP0181,Active Directory,Specialist,Read/Write,Standard,True,2024-05-15,2026-07-01,Active
+ACC00362,EMP0182,Active Directory,Director,Read,Standard,True,2024-10-24,2026-04-16,Active
+ACC00363,EMP0182,AWS Console,Director,Admin,Standard,True,2023-01-04,2026-02-27,Active
+ACC00364,EMP0182,CRM,Director,Read,Elevated,True,2023-08-20,2026-01-29,Active
+ACC00365,EMP0183,ERP,Analyst,Write,Elevated,True,2025-01-10,2026-03-21,Active
+ACC00366,EMP0183,Active Directory,Analyst,Read/Write,Admin,True,2024-11-05,2026-06-21,Active
+ACC00367,EMP0183,File Server,Analyst,Read/Write,Standard,True,2025-05-03,2026-02-06,Active
+ACC00368,EMP0184,Active Directory,Associate,Read,Standard,True,2025-11-18,2026-03-08,Active
+ACC00369,EMP0184,CRM,Associate,Write,Standard,True,2025-12-30,2026-01-14,Active
+ACC00370,EMP0185,ERP,Associate,Read/Write,Standard,True,2024-11-03,2026-05-26,Active
+ACC00371,EMP0185,File Server,Associate,Read,Standard,True,2025-07-10,2026-07-22,Active
+ACC00372,EMP0185,Active Directory,Associate,Admin,Elevated,True,2024-02-11,2026-01-24,Active
+ACC00373,EMP0186,ERP,Specialist,Read,Elevated,True,2025-09-22,2026-02-13,Active
+ACC00374,EMP0187,CRM,Specialist,Admin,Elevated,True,2025-12-24,2026-04-28,Active
+ACC00375,EMP0187,Active Directory,Specialist,Read/Write,Elevated,True,2024-04-04,2026-04-07,Active
+ACC00376,EMP0187,Payroll System,Specialist,Read/Write,Standard,True,2022-08-20,2026-04-01,Active
+ACC00377,EMP0188,File Server,Director,Read,Standard,True,2025-08-10,2026-07-06,Active
+ACC00378,EMP0188,CRM,Director,Read/Write,Standard,True,2023-04-24,2026-02-09,Active
+ACC00379,EMP0189,CRM,Director,Admin,Standard,True,2023-01-27,2026-07-25,Active
+ACC00380,EMP0189,Payroll System,Director,Write,Elevated,True,2023-10-17,2026-03-30,Active
+ACC00381,EMP0190,AWS Console,Manager,Read,Standard,True,2025-01-13,2026-02-15,Active
+ACC00382,EMP0191,ERP,Director,Admin,Elevated,True,2023-08-04,2026-03-21,Active
+ACC00383,EMP0191,Payroll System,Director,Read/Write,Standard,True,2022-10-16,2026-01-27,Revoked
+ACC00384,EMP0192,AWS Console,Associate,Read/Write,Standard,True,2025-09-01,2026-03-12,Active
+ACC00385,EMP0193,ERP,Associate,Read/Write,Standard,True,2023-09-21,2026-06-20,Active
+ACC00386,EMP0193,File Server,Associate,Read/Write,Standard,True,2024-09-14,2026-06-01,Active
+ACC00387,EMP0193,CRM,Associate,Admin,Standard,True,2026-03-21,2026-03-25,Active
+ACC00388,EMP0194,Payroll System,Manager,Read/Write,Standard,True,2025-03-08,2026-07-12,Active
+ACC00389,EMP0195,AWS Console,Director,Read/Write,Standard,True,2023-12-30,2026-05-13,Active
+ACC00390,EMP0195,Payroll System,Director,Read/Write,Standard,True,2022-11-02,2026-07-28,Active
+ACC00391,EMP0196,AWS Console,Associate,Read,Standard,True,2025-12-28,2026-02-28,Active
+ACC00392,EMP0197,File Server,Manager,Read/Write,Standard,True,2024-08-03,2026-04-30,Active
+ACC00393,EMP0197,Active Directory,Manager,Read/Write,Elevated,True,2024-08-22,2026-03-11,Active
+ACC00394,EMP0197,CRM,Manager,Admin,Elevated,True,2022-06-27,2026-04-08,Active
+ACC00395,EMP0198,ERP,Analyst,Admin,Elevated,True,2024-07-05,2026-02-20,Active
+ACC00396,EMP0199,Payroll System,Associate,Read,Standard,True,2026-03-31,2026-06-20,Active
+ACC00397,EMP0199,File Server,Associate,Read/Write,Standard,True,2025-11-25,2026-05-28,Active
+ACC00398,EMP0200,CRM,Associate,Read/Write,Admin,True,2025-06-07,2026-01-30,Active
+ACC00399,EMP0200,File Server,Associate,Read/Write,Standard,True,2026-03-29,2026-02-20,Active
+ACC00400,EMP0200,ERP,Associate,Read/Write,Elevated,True,2023-12-09,2026-02-14,Active
+ACC00401,EMP0201,Payroll System,Associate,Read,Standard,True,2023-05-26,2026-04-13,Active
+ACC00402,EMP0201,CRM,Associate,Write,Elevated,True,2022-08-16,2026-03-06,Active
+ACC00403,EMP0201,AWS Console,Associate,Write,Standard,True,2025-12-02,2026-04-24,Active
+ACC00404,EMP0202,Payroll System,Manager,Read/Write,Standard,True,2024-02-26,2026-02-27,Active
+ACC00405,EMP0202,File Server,Manager,Admin,Admin,True,2024-04-09,2026-05-06,Active
+ACC00406,EMP0202,Active Directory,Manager,Write,Admin,True,2025-09-23,2026-04-18,Active
+ACC00407,EMP0203,File Server,Director,Admin,Elevated,True,2022-07-06,2026-01-25,Active
+ACC00408,EMP0203,Payroll System,Director,Write,Admin,True,2025-04-29,2026-02-23,Active
+ACC00409,EMP0203,Active Directory,Director,Write,Elevated,True,2022-07-09,2026-02-16,Active
+ACC00410,EMP0204,Payroll System,Associate,Admin,Standard,True,2022-07-09,2026-07-03,Active
+ACC00411,EMP0205,Payroll System,Analyst,Read/Write,Standard,True,2022-09-21,2026-01-22,Active
+ACC00412,EMP0205,AWS Console,Analyst,Read/Write,Elevated,True,2026-06-06,2026-03-21,Active
+ACC00413,EMP0206,ERP,Specialist,Read,Standard,True,2022-09-29,2026-07-18,Active
+ACC00414,EMP0207,Active Directory,Manager,Admin,Elevated,True,2022-09-02,2026-05-29,Active
+ACC00415,EMP0208,ERP,Engineer,Admin,Standard,True,2025-05-11,2026-01-21,Active
+ACC00416,EMP0209,ERP,Director,Write,Standard,True,2022-11-15,2026-03-11,Active
+ACC00417,EMP0209,Active Directory,Director,Admin,Standard,True,2022-08-13,2026-02-12,Active
+ACC00418,EMP0209,AWS Console,Director,Read/Write,Standard,True,2024-04-30,2026-04-17,Active
+ACC00419,EMP0210,Active Directory,Director,Admin,Standard,True,2025-05-13,2026-02-24,Active
+ACC00420,EMP0210,Payroll System,Director,Read/Write,Elevated,True,2025-03-28,2026-02-20,Active
+ACC00421,EMP0210,ERP,Director,Write,Elevated,True,2025-06-01,2026-05-18,Active
+ACC00422,EMP0211,CRM,Specialist,Write,Standard,True,2023-08-15,2026-07-02,Active
+ACC00423,EMP0211,ERP,Specialist,Read/Write,Standard,True,2024-12-08,2026-03-12,Active
+ACC00424,EMP0212,CRM,Analyst,Admin,Standard,True,2026-06-21,2026-05-09,Active
+ACC00425,EMP0212,File Server,Analyst,Write,Standard,True,2026-04-12,2026-06-23,Active
+ACC00426,EMP0213,Payroll System,Manager,Admin,Elevated,True,2023-10-02,2026-03-08,Active
+ACC00427,EMP0213,ERP,Manager,Read,Standard,True,2022-07-14,2026-05-12,Active
+ACC00428,EMP0214,CRM,Director,Read/Write,Elevated,True,2025-12-26,2026-05-04,Active
+ACC00429,EMP0214,File Server,Director,Write,Standard,True,2022-10-13,2026-05-09,Active
+ACC00430,EMP0214,ERP,Director,Admin,Standard,True,2025-04-11,2026-01-21,Active
+ACC00431,EMP0215,Payroll System,Associate,Admin,Standard,True,2024-01-02,2026-06-01,Active
+ACC00432,EMP0215,AWS Console,Associate,Write,Admin,True,2026-04-12,2026-02-08,Active
+ACC00433,EMP0215,ERP,Associate,Read,Elevated,True,2024-05-03,2026-05-28,Active
+ACC00434,EMP0216,File Server,Associate,Admin,Admin,True,2023-08-14,2026-03-24,Active
+ACC00435,EMP0216,Active Directory,Associate,Read,Standard,True,2024-11-02,2026-02-16,Active
+ACC00436,EMP0216,ERP,Associate,Read,Standard,True,2025-12-18,2026-06-20,Active
+ACC00437,EMP0217,Payroll System,Director,Write,Standard,True,2022-08-29,2026-04-15,Active
+ACC00438,EMP0217,ERP,Director,Read/Write,Elevated,True,2022-11-16,2026-07-14,Active
+ACC00439,EMP0217,File Server,Director,Read/Write,Elevated,True,2022-06-25,2026-05-09,Active
+ACC00440,EMP0218,ERP,Engineer,Write,Standard,True,2025-02-02,2026-03-12,Active
+ACC00441,EMP0219,Payroll System,Engineer,Read/Write,Elevated,True,2024-04-29,2026-04-08,Active
+ACC00442,EMP0220,AWS Console,Manager,Read,Standard,True,2023-07-03,2026-07-31,Active
+ACC00443,EMP0220,File Server,Manager,Read,Standard,True,2023-03-21,2026-07-21,Active
+ACC00444,EMP0220,Active Directory,Manager,Read,Elevated,False,2024-11-16,2026-02-07,Active
+ACC00445,EMP0221,Payroll System,Analyst,Read/Write,Standard,True,2024-05-12,2026-04-22,Active
+ACC00446,EMP0221,ERP,Analyst,Write,Elevated,False,2023-07-06,2026-06-06,Active
+ACC00447,EMP0222,File Server,Specialist,Admin,Standard,True,2022-12-12,2026-06-26,Active
+ACC00448,EMP0223,File Server,Specialist,Write,Admin,False,2025-10-23,2026-07-22,Active
+ACC00449,EMP0223,Active Directory,Specialist,Read/Write,Standard,True,2023-06-28,2026-03-14,Active
+ACC00450,EMP0224,Active Directory,Analyst,Admin,Standard,True,2025-04-25,2026-04-18,Active
+ACC00451,EMP0225,Payroll System,Specialist,Admin,Standard,True,2025-05-31,2026-07-03,Active
+ACC00452,EMP0225,CRM,Specialist,Read,Standard,True,2023-06-04,2026-04-05,Active
+ACC00453,EMP0225,File Server,Specialist,Read,Standard,True,2024-11-14,2026-02-11,Active
+ACC00454,EMP0226,Active Directory,Associate,Read/Write,Standard,True,2024-08-24,2026-05-02,Active
+ACC00455,EMP0227,File Server,Director,Read,Standard,True,2024-11-26,2026-02-24,Active
+ACC00456,EMP0228,CRM,Specialist,Read/Write,Standard,True,2024-08-29,2026-02-25,Active
+ACC00457,EMP0229,Active Directory,Analyst,Admin,Standard,True,2024-09-23,2026-04-14,Active
+ACC00458,EMP0229,Payroll System,Analyst,Admin,Standard,True,2025-02-13,2026-06-06,Active
+ACC00459,EMP0229,CRM,Analyst,Admin,Elevated,True,2024-06-26,2026-06-28,Active
+ACC00460,EMP0230,File Server,Analyst,Admin,Standard,True,2024-10-15,2026-03-30,Active
+ACC00461,EMP0230,Active Directory,Analyst,Write,Standard,True,2022-11-18,2026-02-27,Active
+ACC00462,EMP0230,AWS Console,Analyst,Admin,Standard,True,2025-09-19,2026-03-17,Active
+ACC00463,EMP0231,Active Directory,Specialist,Read,Elevated,True,2026-05-25,2026-03-25,Active
+ACC00464,EMP0232,ERP,Analyst,Read,Elevated,True,2023-05-30,2026-05-27,Active
+ACC00465,EMP0232,Payroll System,Analyst,Read/Write,Standard,True,2022-11-01,2026-01-15,Active
+ACC00466,EMP0232,AWS Console,Analyst,Read/Write,Standard,True,2025-04-01,2026-01-16,Active
+ACC00467,EMP0233,File Server,Manager,Read,Standard,True,2024-04-11,2026-04-30,Active
+ACC00468,EMP0233,Active Directory,Manager,Write,Standard,True,2023-01-22,2026-02-07,Active
+ACC00469,EMP0233,CRM,Manager,Write,Standard,True,2024-01-01,2026-06-22,Active
+ACC00470,EMP0234,Payroll System,Associate,Write,Admin,True,2023-10-16,2026-05-02,Active
+ACC00471,EMP0235,CRM,Specialist,Admin,Elevated,True,2024-06-06,2026-06-03,Active
+ACC00472,EMP0236,File Server,Analyst,Admin,Standard,True,2024-04-29,2026-04-03,Active
+ACC00473,EMP0237,ERP,Director,Admin,Admin,True,2025-01-09,2026-03-06,Active
+ACC00474,EMP0237,File Server,Director,Write,Standard,True,2024-05-22,2026-02-15,Active
+ACC00475,EMP0238,Active Directory,Engineer,Read,Standard,True,2023-08-09,2026-05-29,Active
+ACC00476,EMP0238,Payroll System,Engineer,Write,Standard,True,2023-08-10,2026-04-20,Active
+ACC00477,EMP0239,Active Directory,Director,Read,Elevated,True,2023-09-09,2026-06-27,Active
+ACC00478,EMP0239,AWS Console,Director,Write,Standard,True,2026-01-26,2026-03-23,Active
+ACC00479,EMP0240,Active Directory,Manager,Admin,Standard,True,2023-02-16,2026-01-30,Active
+ACC00480,EMP0240,CRM,Manager,Read/Write,Elevated,True,2024-08-25,2026-01-29,Active
+ACC00481,EMP0240,Payroll System,Manager,Read/Write,Standard,True,2023-10-25,2026-06-09,Active
+ACC00482,EMP0241,CRM,Director,Write,Standard,True,2023-04-15,2026-03-03,Active
+ACC00483,EMP0241,AWS Console,Director,Read,Standard,True,2023-04-17,2026-06-25,Active
+ACC00484,EMP0241,ERP,Director,Admin,Standard,True,2025-06-29,2026-03-22,Active
+ACC00485,EMP0242,Payroll System,Director,Admin,Standard,True,2026-01-08,2026-06-07,Active
+ACC00486,EMP0242,File Server,Director,Read/Write,Standard,True,2023-10-20,2026-06-19,Active
+ACC00487,EMP0243,AWS Console,Analyst,Write,Standard,True,2023-01-03,2026-02-14,Active
+ACC00488,EMP0244,Active Directory,Analyst,Read,Admin,True,2025-03-19,2026-04-27,Active
+ACC00489,EMP0244,CRM,Analyst,Read,Standard,True,2026-05-30,2026-06-11,Active
+ACC00490,EMP0244,File Server,Analyst,Read/Write,Standard,True,2025-08-30,2026-02-27,Active
+ACC00491,EMP0245,CRM,Specialist,Read,Standard,True,2023-07-10,2026-03-26,Active
+ACC00492,EMP0246,ERP,Engineer,Write,Standard,True,2023-02-13,2026-03-16,Active
+ACC00493,EMP0247,File Server,Director,Read/Write,Standard,True,2024-06-04,2026-07-21,Active
+ACC00494,EMP0248,Payroll System,Analyst,Read/Write,Admin,True,2024-07-15,2026-03-04,Active
+ACC00495,EMP0248,AWS Console,Analyst,Read,Elevated,True,2024-02-12,2026-06-28,Active
+ACC00496,EMP0248,CRM,Analyst,Write,Standard,True,2026-01-12,2026-05-21,Active
+ACC00497,EMP0249,Payroll System,Director,Read,Standard,True,2023-04-06,2026-03-21,Active
+ACC00498,EMP0249,AWS Console,Director,Read,Standard,True,2024-05-25,2026-02-15,Active
+ACC00499,EMP0249,Active Directory,Director,Admin,Standard,True,2024-03-17,2026-05-01,Active
+ACC00500,EMP0250,CRM,Manager,Admin,Standard,True,2025-01-13,2026-03-17,Active

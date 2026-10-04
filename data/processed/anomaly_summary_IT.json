@@ -1,0 +1,28 @@
+{
+  "department": "IT",
+  "total_logins_reviewed": 3669,
+  "anomalies_detected": 175,
+  "anomaly_rate": 0.0477,
+  "sample_anomaly_log_ids": [
+    "LOG000033",
+    "LOG000241",
+    "LOG000286",
+    "LOG000354",
+    "LOG000367",
+    "LOG000456",
+    "LOG000789",
+    "LOG000850",
+    "LOG000865",
+    "LOG000955",
+    "LOG001061",
+    "LOG001207",
+    "LOG001211",
+    "LOG001252",
+    "LOG001396",
+    "LOG001404",
+    "LOG001444",
+    "LOG001764",
+    "LOG001949",
+    "LOG001972"
+  ]
+}

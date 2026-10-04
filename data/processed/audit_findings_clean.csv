@@ -1,0 +1,221 @@
+finding_id,control_id,department,severity,finding_type,date,resolution_time_days,status
+FND0001,A.6.3,Legal,High,Access Management,2025-02-04,34.0,Resolved
+FND0002,A.6.3,HR,Medium,Access Management,2025-10-09,,Open
+FND0003,A.8.9,Legal,Critical,Employee Onboarding/Offboarding,2026-06-27,65.0,Resolved
+FND0004,A.8.16,Legal,Low,Access Management,2024-08-18,37.0,Resolved
+FND0005,A.5.15,Legal,Medium,Policy Gaps,2025-08-11,35.0,Resolved
+FND0006,A.8.15,IT,Critical,Policy Gaps,2025-02-03,36.0,Resolved
+FND0007,A.5.17,Operations,Low,Access Management,2026-03-31,65.0,Resolved
+FND0008,A.5.17,IT,High,Employee Onboarding/Offboarding,2025-11-08,4.0,Resolved
+FND0009,A.5.16,Sales,Critical,Access Management,2025-07-08,70.0,Resolved
+FND0010,A.8.5,Legal,Low,Policy Gaps,2025-12-25,86.0,Resolved
+FND0011,A.8.16,IT,High,Access Management,2026-04-02,,Open
+FND0012,A.8.9,Sales,High,Access Management,2026-02-19,46.0,Resolved
+FND0013,A.8.16,Operations,High,Other,2025-11-25,,Open
+FND0014,A.8.15,Operations,High,Access Management,2025-07-26,36.0,Resolved
+FND0015,A.6.3,Finance,Low,Access Management,2025-12-18,43.0,Resolved
+FND0016,A.8.3,IT,Medium,Policy Gaps,2026-03-24,89.0,Resolved
+FND0017,A.8.16,Operations,Medium,Access Management,2026-07-20,,Open
+FND0018,A.8.5,HR,Low,Policy Gaps,2025-06-13,,Open
+FND0019,A.6.5,Sales,High,Access Management,2025-05-11,76.0,Resolved
+FND0020,A.6.3,Operations,High,Access Management,2025-04-02,,Open
+FND0021,A.6.3,HR,Low,Policy Gaps,2025-07-12,5.0,Resolved
+FND0022,A.8.2,HR,Critical,Access Management,2024-10-04,23.0,Resolved
+FND0023,A.8.3,HR,Critical,Access Management,2025-05-02,17.0,Resolved
+FND0024,A.8.15,IT,Low,Access Management,2024-09-27,42.0,Resolved
+FND0025,A.8.15,Finance,High,Policy Gaps,2024-08-19,51.0,Resolved
+FND0026,A.8.2,HR,Low,Access Management,2025-01-15,38.0,Resolved
+FND0027,A.8.16,Finance,Low,Policy Gaps,2025-12-21,2.0,Resolved
+FND0028,A.5.16,IT,Low,Access Management,2025-01-19,54.0,Resolved
+FND0029,A.6.3,Operations,Critical,Access Management,2026-02-09,43.0,Resolved
+FND0030,A.5.17,Finance,High,Other,2026-03-24,27.0,Resolved
+FND0031,A.8.16,Operations,Low,Policy Gaps,2025-10-20,29.0,Resolved
+FND0032,A.6.3,Finance,High,Access Management,2025-05-21,55.0,Resolved
+FND0033,A.8.16,Operations,Medium,Access Management,2025-08-14,88.0,Resolved
+FND0034,A.5.15,HR,High,Access Management,2025-02-23,1.0,Resolved
+FND0035,A.8.5,IT,Medium,Access Management,2026-07-25,40.0,Resolved
+FND0036,A.6.5,Legal,Medium,Access Management,2024-11-17,70.0,Resolved
+FND0037,A.8.2,Operations,Low,Employee Onboarding/Offboarding,2025-02-13,56.0,Resolved
+FND0038,A.8.2,Legal,Low,Configuration,2025-05-26,48.0,Resolved
+FND0039,A.5.16,IT,Medium,Policy Gaps,2024-09-01,15.0,Resolved
+FND0040,A.5.15,Legal,Low,Employee Onboarding/Offboarding,2025-07-10,63.0,Resolved
+FND0041,A.8.15,Sales,Medium,Access Management,2024-11-01,1.0,Resolved
+FND0042,A.8.3,Legal,High,Access Management,2025-11-28,63.0,Resolved
+FND0043,A.6.5,Legal,Medium,Policy Gaps,2025-03-16,66.0,Resolved
+FND0044,A.5.16,Sales,Critical,Employee Onboarding/Offboarding,2025-04-09,31.0,Resolved
+FND0045,A.8.3,Finance,Medium,Policy Gaps,2026-07-26,65.0,Resolved
+FND0046,A.5.15,Operations,Medium,Employee Onboarding/Offboarding,2026-02-13,22.0,Resolved
+FND0047,A.8.16,HR,Low,Other,2026-07-04,60.0,Resolved
+FND0048,A.6.3,Sales,Medium,Configuration,2026-03-07,43.0,Resolved
+FND0049,A.5.18,Legal,High,Policy Gaps,2026-02-24,55.0,Resolved
+FND0050,A.6.5,Finance,Low,Access Management,2025-12-28,,Open
+FND0051,A.8.5,Legal,Medium,Policy Gaps,2024-10-17,9.0,Resolved
+FND0052,A.8.2,Sales,Medium,Access Management,2024-08-13,,Open
+FND0053,A.5.18,HR,Medium,Access Management,2026-01-09,31.0,Resolved
+FND0054,A.5.16,Sales,Medium,Access Management,2025-11-18,73.0,Resolved
+FND0055,A.5.16,Finance,Low,Employee Onboarding/Offboarding,2025-01-28,51.0,Resolved
+FND0056,A.5.15,IT,Low,Employee Onboarding/Offboarding,2025-07-02,32.0,Resolved
+FND0057,A.5.18,Operations,Medium,Policy Gaps,2024-08-15,14.0,Resolved
+FND0058,A.8.15,Legal,Low,Employee Onboarding/Offboarding,2024-08-20,70.0,Resolved
+FND0059,A.6.5,Operations,High,Access Management,2026-07-15,90.0,Resolved
+FND0060,A.6.5,Operations,Medium,Access Management,2024-11-08,9.0,Resolved
+FND0061,A.5.18,Sales,Critical,Access Management,2026-05-23,,Open
+FND0062,A.8.3,Operations,Low,Employee Onboarding/Offboarding,2026-05-28,20.0,Resolved
+FND0063,A.5.17,Operations,Medium,Access Management,2025-07-08,69.0,Resolved
+FND0064,A.6.3,HR,Critical,Policy Gaps,2025-03-17,16.0,Resolved
+FND0065,A.6.5,IT,High,Employee Onboarding/Offboarding,2026-03-09,,Open
+FND0066,A.5.15,Finance,Medium,Configuration,2025-03-17,58.0,Resolved
+FND0067,A.6.5,HR,Medium,Employee Onboarding/Offboarding,2025-06-16,89.0,Resolved
+FND0068,A.8.16,Sales,Low,Employee Onboarding/Offboarding,2026-04-22,86.0,Resolved
+FND0069,A.6.5,Legal,Medium,Configuration,2024-10-28,78.0,Resolved
+FND0070,A.8.9,Legal,Low,Policy Gaps,2025-12-20,40.0,Resolved
+FND0071,A.5.16,Legal,Critical,Policy Gaps,2026-07-31,43.0,Resolved
+FND0072,A.8.16,Operations,Critical,Employee Onboarding/Offboarding,2026-06-16,,Open
+FND0073,A.8.3,Sales,Medium,Employee Onboarding/Offboarding,2025-08-08,,Open
+FND0074,A.5.15,Finance,High,Policy Gaps,2025-04-03,25.0,Resolved
+FND0075,A.5.17,HR,Low,Policy Gaps,2025-02-23,75.0,Resolved
+FND0076,A.5.18,HR,Medium,Policy Gaps,2025-07-24,82.0,Resolved
+FND0077,A.8.2,Legal,High,Policy Gaps,2025-11-09,,Open
+FND0078,A.5.17,Sales,High,Access Management,2024-12-01,,Open
+FND0079,A.8.16,IT,Medium,Other,2026-06-16,,Open
+FND0080,A.8.9,Operations,Medium,Access Management,2025-06-09,,Open
+FND0081,A.5.17,Legal,Low,Access Management,2025-12-12,,Open
+FND0082,A.5.16,Sales,Low,Configuration,2026-03-26,85.0,Resolved
+FND0083,A.5.16,IT,Medium,Access Management,2024-09-04,5.0,Resolved
+FND0084,A.5.15,Operations,High,Access Management,2026-04-03,83.0,Resolved
+FND0085,A.5.15,IT,Medium,Policy Gaps,2026-03-11,15.0,Resolved
+FND0086,A.8.16,IT,Medium,Other,2026-07-24,53.0,Resolved
+FND0087,A.8.2,Operations,High,Other,2026-01-24,33.0,Resolved
+FND0088,A.6.3,Operations,Low,Configuration,2025-03-13,61.0,Resolved
+FND0089,A.8.15,Finance,Low,Policy Gaps,2026-07-08,22.0,Resolved
+FND0090,A.5.15,Operations,Low,Access Management,2024-11-03,77.0,Resolved
+FND0091,A.5.15,Sales,Low,Employee Onboarding/Offboarding,2025-05-19,,Open
+FND0092,A.8.2,Sales,Medium,Employee Onboarding/Offboarding,2025-11-25,5.0,Resolved
+FND0093,A.5.15,Operations,Low,Other,2025-12-20,5.0,Resolved
+FND0094,A.6.3,Finance,Low,Access Management,2025-03-04,,Open
+FND0095,A.8.15,HR,Low,Access Management,2024-12-21,,Open
+FND0096,A.8.16,HR,Medium,Employee Onboarding/Offboarding,2025-05-20,,Open
+FND0097,A.6.5,Sales,Low,Configuration,2025-08-23,55.0,Resolved
+FND0098,A.6.5,Sales,Medium,Employee Onboarding/Offboarding,2025-05-29,,Open
+FND0099,A.5.16,HR,Medium,Policy Gaps,2025-02-27,59.0,Resolved
+FND0100,A.8.5,Finance,Medium,Access Management,2025-06-25,27.0,Resolved
+FND0101,A.5.16,Sales,Low,Configuration,2025-02-22,60.0,Resolved
+FND0102,A.5.15,Operations,Low,Access Management,2026-02-11,65.0,Resolved
+FND0103,A.8.9,Finance,High,Other,2025-11-03,33.0,Resolved
+FND0104,A.8.16,Finance,Medium,Policy Gaps,2025-03-25,77.0,Resolved
+FND0105,A.5.16,HR,Medium,Policy Gaps,2025-08-11,,Open
+FND0106,A.6.3,IT,Low,Employee Onboarding/Offboarding,2025-06-02,4.0,Resolved
+FND0107,A.6.5,HR,Low,Policy Gaps,2024-10-30,4.0,Resolved
+FND0108,A.8.3,Operations,High,Access Management,2025-08-21,,Open
+FND0109,A.6.3,IT,Low,Access Management,2026-01-23,27.0,Resolved
+FND0110,A.6.5,HR,Low,Other,2025-05-19,88.0,Resolved
+FND0111,A.5.16,IT,High,Access Management,2026-06-26,90.0,Resolved
+FND0112,A.6.3,IT,Low,Access Management,2026-07-20,67.0,Resolved
+FND0113,A.6.5,IT,Medium,Employee Onboarding/Offboarding,2024-08-17,12.0,Resolved
+FND0114,A.5.16,Legal,Medium,Policy Gaps,2026-07-13,41.0,Resolved
+FND0115,A.5.17,Sales,Low,Other,2026-07-22,30.0,Resolved
+FND0116,A.8.16,Operations,Low,Configuration,2026-04-17,,Open
+FND0117,A.6.3,IT,Medium,Employee Onboarding/Offboarding,2025-08-10,79.0,Resolved
+FND0118,A.6.3,IT,Low,Access Management,2025-12-13,38.0,Resolved
+FND0119,A.8.3,Operations,Low,Policy Gaps,2024-10-02,87.0,Resolved
+FND0120,A.8.3,Operations,Low,Configuration,2025-09-25,,Open
+FND0121,A.8.15,IT,High,Configuration,2025-02-17,8.0,Resolved
+FND0122,A.8.15,Legal,Low,Configuration,2025-08-31,42.0,Resolved
+FND0123,A.6.3,Sales,Medium,Policy Gaps,2026-07-14,41.0,Resolved
+FND0124,A.8.9,Operations,Low,Configuration,2024-12-10,,Open
+FND0125,A.6.5,Operations,Medium,Configuration,2026-02-05,26.0,Resolved
+FND0126,A.8.16,Sales,Medium,Configuration,2025-07-31,77.0,Resolved
+FND0127,A.6.3,IT,High,Access Management,2024-12-16,63.0,Resolved
+FND0128,A.6.3,HR,Low,Employee Onboarding/Offboarding,2026-02-22,85.0,Resolved
+FND0129,A.8.5,HR,High,Access Management,2024-11-12,87.0,Resolved
+FND0130,A.8.16,Sales,High,Policy Gaps,2025-09-14,,Open
+FND0131,A.8.9,Operations,Critical,Access Management,2026-04-09,60.0,Resolved
+FND0132,A.8.3,Operations,Low,Access Management,2025-06-18,24.0,Resolved
+FND0133,A.8.16,Legal,Low,Access Management,2025-08-06,69.0,Resolved
+FND0134,A.8.9,Operations,Low,Other,2024-08-26,2.0,Resolved
+FND0135,A.5.18,Sales,Medium,Access Management,2024-12-12,26.0,Resolved
+FND0136,A.5.15,IT,Critical,Configuration,2025-10-05,28.0,Resolved
+FND0137,A.6.5,HR,High,Employee Onboarding/Offboarding,2025-08-09,51.0,Resolved
+FND0138,A.5.18,Legal,Critical,Configuration,2025-11-20,36.0,Resolved
+FND0139,A.6.5,Sales,Low,Access Management,2025-05-20,78.0,Resolved
+FND0140,A.5.18,Sales,High,Policy Gaps,2024-10-02,40.0,Resolved
+FND0141,A.5.15,HR,Low,Policy Gaps,2026-05-16,13.0,Resolved
+FND0142,A.8.2,Sales,High,Access Management,2024-12-02,17.0,Resolved
+FND0143,A.6.5,Legal,Medium,Access Management,2026-01-19,14.0,Resolved
+FND0144,A.5.18,HR,High,Configuration,2025-12-23,38.0,Resolved
+FND0145,A.6.3,Operations,Medium,Access Management,2025-12-02,80.0,Resolved
+FND0146,A.5.17,IT,High,Configuration,2025-09-05,32.0,Resolved
+FND0147,A.6.3,Finance,Low,Employee Onboarding/Offboarding,2025-08-28,,Open
+FND0148,A.8.2,Legal,Medium,Policy Gaps,2026-04-08,14.0,Resolved
+FND0149,A.5.18,Sales,Low,Access Management,2026-02-08,20.0,Resolved
+FND0150,A.8.15,HR,High,Other,2026-02-07,,Open
+FND0151,A.5.18,Operations,Low,Other,2025-02-22,41.0,Resolved
+FND0152,A.6.5,Finance,Critical,Policy Gaps,2024-11-29,90.0,Resolved
+FND0153,A.8.2,HR,High,Access Management,2025-05-02,35.0,Resolved
+FND0154,A.8.9,IT,Low,Other,2025-08-21,16.0,Resolved
+FND0155,A.8.9,Legal,Low,Access Management,2025-01-19,3.0,Resolved
+FND0156,A.5.17,HR,Medium,Policy Gaps,2025-01-24,27.0,Resolved
+FND0157,A.6.3,Finance,Medium,Policy Gaps,2025-03-18,57.0,Resolved
+FND0158,A.8.2,Legal,Medium,Policy Gaps,2025-04-28,64.0,Resolved
+FND0159,A.8.9,HR,High,Access Management,2024-11-19,88.0,Resolved
+FND0160,A.5.18,Sales,Low,Access Management,2025-08-29,90.0,Resolved
+FND0161,A.8.9,Finance,Low,Configuration,2025-06-01,,Open
+FND0162,A.8.5,Finance,High,Employee Onboarding/Offboarding,2026-06-03,27.0,Resolved
+FND0163,A.6.3,Legal,Low,Configuration,2026-05-10,,Open
+FND0164,A.8.9,Finance,High,Policy Gaps,2025-05-08,48.0,Resolved
+FND0165,A.8.3,IT,Medium,Access Management,2026-05-30,16.0,Resolved
+FND0166,A.8.2,Legal,Low,Policy Gaps,2025-08-29,52.0,Resolved
+FND0167,A.8.2,Operations,High,Access Management,2025-05-20,60.0,Resolved
+FND0168,A.8.16,Sales,High,Access Management,2025-08-30,63.0,Resolved
+FND0169,A.8.9,Legal,Critical,Access Management,2026-04-02,,Open
+FND0170,A.8.16,Finance,Medium,Access Management,2025-09-21,5.0,Resolved
+FND0171,A.8.16,Legal,Medium,Access Management,2025-03-09,66.0,Resolved
+FND0172,A.6.5,Finance,High,Policy Gaps,2026-01-21,55.0,Resolved
+FND0173,A.8.5,Sales,Medium,Configuration,2025-06-21,,Open
+FND0174,A.8.5,Finance,High,Access Management,2026-07-23,83.0,Resolved
+FND0175,A.8.2,HR,Critical,Access Management,2026-07-02,,Open
+FND0176,A.5.18,Operations,Medium,Access Management,2026-04-13,21.0,Resolved
+FND0177,A.5.15,HR,High,Access Management,2025-08-19,,Open
+FND0178,A.8.2,Finance,Medium,Access Management,2026-01-05,24.0,Resolved
+FND0179,A.8.2,HR,Low,Employee Onboarding/Offboarding,2025-05-27,83.0,Resolved
+FND0180,A.8.2,Finance,High,Configuration,2025-12-31,82.0,Resolved
+FND0181,A.6.3,HR,Medium,Policy Gaps,2025-11-13,32.0,Resolved
+FND0182,A.5.15,Finance,Low,Other,2026-01-06,26.0,Resolved
+FND0183,A.8.15,IT,Low,Employee Onboarding/Offboarding,2024-08-28,32.0,Resolved
+FND0184,A.8.9,Sales,High,Policy Gaps,2024-08-11,67.0,Resolved
+FND0185,A.5.17,Finance,High,Configuration,2025-02-12,62.0,Resolved
+FND0186,A.6.5,Legal,High,Configuration,2025-09-06,80.0,Resolved
+FND0187,A.8.5,Legal,High,Employee Onboarding/Offboarding,2025-02-24,75.0,Resolved
+FND0188,A.6.5,HR,Critical,Employee Onboarding/Offboarding,2025-06-24,71.0,Resolved
+FND0189,A.8.9,IT,Low,Access Management,2026-05-30,40.0,Resolved
+FND0190,A.6.5,Sales,Medium,Policy Gaps,2024-08-13,57.0,Resolved
+FND0191,A.6.3,Legal,Low,Employee Onboarding/Offboarding,2026-03-02,4.0,Resolved
+FND0192,A.6.5,Operations,Low,Policy Gaps,2025-07-05,6.0,Resolved
+FND0193,A.6.3,Finance,Low,Access Management,2024-08-28,8.0,Resolved
+FND0194,A.5.16,IT,High,Other,2025-08-30,71.0,Resolved
+FND0195,A.5.17,Operations,Medium,Employee Onboarding/Offboarding,2025-02-10,2.0,Resolved
+FND0196,A.5.16,Operations,Low,Access Management,2026-03-01,,Open
+FND0197,A.8.3,Finance,Medium,Employee Onboarding/Offboarding,2026-04-03,58.0,Resolved
+FND0198,A.8.2,Operations,Low,Employee Onboarding/Offboarding,2024-08-17,2.0,Resolved
+FND0199,A.6.5,HR,Medium,Employee Onboarding/Offboarding,2025-03-23,3.0,Resolved
+FND0200,A.8.9,Finance,High,Access Management,2025-10-24,64.0,Resolved
+FND0201,A.8.2,Sales,Medium,Access Management,2025-12-10,,Open
+FND0202,A.6.5,Sales,Critical,Employee Onboarding/Offboarding,2024-11-29,9.0,Resolved
+FND0203,A.8.16,Operations,Critical,Access Management,2025-12-03,21.0,Resolved
+FND0204,A.5.15,Legal,High,Policy Gaps,2025-11-12,,Open
+FND0205,A.8.16,IT,High,Access Management,2026-01-11,74.0,Resolved
+FND0206,A.6.5,IT,Medium,Policy Gaps,2025-12-10,38.0,Resolved
+FND0207,A.8.16,Operations,Medium,Access Management,2024-11-21,8.0,Resolved
+FND0208,A.6.5,IT,Low,Policy Gaps,2025-12-27,55.0,Resolved
+FND0209,A.5.15,Operations,Medium,Employee Onboarding/Offboarding,2026-03-09,80.0,Resolved
+FND0210,A.8.3,Legal,Medium,Employee Onboarding/Offboarding,2025-07-11,3.0,Resolved
+FND0211,A.8.5,Operations,Medium,Employee Onboarding/Offboarding,2026-03-06,76.0,Resolved
+FND0212,A.8.3,Legal,High,Other,2024-08-21,78.0,Resolved
+FND0213,A.8.3,Operations,High,Access Management,2026-03-27,8.0,Resolved
+FND0214,A.5.17,IT,High,Access Management,2025-04-16,71.0,Resolved
+FND0215,A.6.5,Legal,Medium,Access Management,2024-09-03,54.0,Resolved
+FND0216,A.5.18,Legal,High,Access Management,2026-05-21,16.0,Resolved
+FND0217,A.8.2,Sales,Critical,Employee Onboarding/Offboarding,2024-12-09,53.0,Resolved
+FND0218,A.8.9,IT,Low,Access Management,2026-03-06,43.0,Resolved
+FND0219,A.8.16,IT,High,Access Management,2025-01-31,51.0,Resolved
+FND0220,A.5.15,Legal,Critical,Policy Gaps,2025-10-31,9.0,Resolved
